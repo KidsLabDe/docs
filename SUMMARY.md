@@ -2,13 +2,20 @@
 
 * [KidsLab-Handbuch](README.md)
 
-## Scratch
-
 ## Allgemeines
 
 * [Checkliste - Online-Workshop](allgemeines/checkliste-online-workshop.md)
 
 ## Minecraft
 
-* [Untitled](minecraft/untitled.md)
+---
+
+* [Einrichtung des KidsLab-Modpacks](einrichtung-des-kidslab-modpacks.md)
+* [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
+
+## MineTest
+
+* [Übersicht über MineTest](minetest/uebersicht-ueber-minetest.md)
+* [Installation von MineTest](minetest/installation-von-minetest.md)
+* [Minetest - Grundsätzliche Bedienung](minetest/minetest-grundsaetzliche-bedienung.md)
 
