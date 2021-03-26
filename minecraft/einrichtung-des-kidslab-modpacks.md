@@ -40,15 +40,15 @@ Die Adresse, die du unter "Instances" im Import-Dialog eingeben musst: [https://
 
 Wenn du die richtige Minecraft Version installiert hast, solltest du das sehen:
 
-![](.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 Sieht dein Screen jetzt so aus? Super!
 
 Es sind 2 Server in der Liste, klicke bitte auf den aktiven \(grün\) Server \(KidsLab oder KidsLab alternativ\) und dann unten auf "**Server beitreten**"
 
-![](.gitbook/assets/minecraft-server-screen.png)
+![](../.gitbook/assets/minecraft-server-screen.png)
 
 {% hint style="success" %}
 Geschafft, du bist online!
