@@ -1,5 +1,7 @@
 ---
-description: Dieses Dokument hilft Dir, dich perfekt für einen Online-Workshops vorzubereiten.
+description: >-
+  Dieses Dokument hilft Dir, dich perfekt für einen Online-Workshops
+  vorzubereiten.
 ---
 
 # Checkliste - Online-Workshop
@@ -23,7 +25,7 @@ Wie alt darf der Computer sein? Als Faustregel gilt, nicht älter als 8-10 Jahre
 ## Was muss ich ausprobieren / mit meinem Kind üben?
 
 {% hint style="warning" %}
-Achtung - Die Tastatur des Computers ist für Eltern LAVA - nur Kinder dürfen Sie berühren! Was ist der Hintergrund? Nur wenn die Kinder die Sachen selbst machen, lernen Sie, wie es geht und können es dann auch allein :+1:
+Achtung - Die Tastatur des Computers ist für Eltern LAVA - nur Kinder dürfen Sie berühren! Was ist der Hintergrund? Nur wenn die Kinder die Sachen selbst machen, lernen sie, wie es geht und können es dann auch allein
 {% endhint %}
 
 * [x] Anleitung Video-Chat \([https://kidslab.de/benutzung-des-video-chats/](https://kidslab.de/benutzung-des-video-chats/)\) gelesen
