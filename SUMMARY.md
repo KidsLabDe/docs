@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [KidsLab-Handbuch](README.md)
 
 ## Scratch
 
-* [Übersicht](scratch/uebersicht.md)
-
 ## Allgemeines
 
-* [Untitled](allgemeines/untitled.md)
 * [Checkliste - Online-Workshop](allgemeines/checkliste-online-workshop.md)
+
+## Minecraft
+
+* [Untitled](minecraft/untitled.md)
 

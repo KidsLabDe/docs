@@ -1,10 +1,10 @@
 ---
-description: Dies ist die Startseite...
+description: Willkommen beim offiziellen Handbuch von KidsLab!
 ---
 
-# Initial page
+# KidsLab-Handbuch
 
-Und hier steht der Inhalt.
+Auf diesen Seiten findest Du alle Info zur Vorbereitung auf Workshops, Anleitungen aus den Workshops und viele weiterer Infos zum Thema "Forschen & Programmieren für Kinder".
 
-![](.gitbook/assets/1-bigbluebutton-kidslab-workshop-raum-1-2021-02-14-10-37-14.png)
+
 
