@@ -1,4 +1,4 @@
-# Installation von MineTest \(Windows\)
+# Installation \(Windows\)
 
 ## Minetest - Installation
 

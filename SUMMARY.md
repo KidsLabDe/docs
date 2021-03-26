@@ -13,8 +13,8 @@
 
 ## MineTest
 
-* [Übersicht über MineTest](minetest/uebersicht-ueber-minetest.md)
-* [Installation von MineTest \(Windows\)](minetest/installation-von-minetest.md)
-* [Installation MineTest \(Mac\)](minetest/installation-minetest-mac.md)
+* [Übersicht](minetest/uebersicht-minetest.md)
+* [Installation \(Windows\)](minetest/installation-von-minetest.md)
+* [Installation \(Mac\)](minetest/installation-minetest-mac.md)
 * [Minetest - Grundsätzliche Bedienung](minetest/minetest-grundsaetzliche-bedienung.md)
 

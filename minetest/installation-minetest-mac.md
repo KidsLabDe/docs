@@ -1,4 +1,4 @@
-# Installation MineTest \(Mac\)
+# Installation \(Mac\)
 
 Die aktuelle Version kann auf dieser Seite heruntergeladen werden:
 
