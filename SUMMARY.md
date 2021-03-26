@@ -8,7 +8,7 @@
 
 ## Minecraft
 
-* [Einrichtung des KidsLab-Modpacks](minecraft/einrichtung-des-kidslab-modpacks.md)
+* [Installation ModPack](minecraft/einrichtung-des-kidslab-modpacks.md)
 * [Minecraft und Microsoft Konten](minecraft/minecraft-und-microsoft-konten.md)
 
 ## MineTest

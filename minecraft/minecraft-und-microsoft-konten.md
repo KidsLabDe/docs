@@ -1,6 +1,7 @@
 ---
-description: Für die Anmeldung in Minecraft mit einem (eigenen) Microsoft-Konto sind
-  einige zusätzlichen Sachen zu beachten.
+description: >-
+  Für die Anmeldung in Minecraft mit einem (eigenen) Microsoft-Konto sind einige
+  zusätzlichen Sachen zu beachten.
 ---
 
 # Minecraft und Microsoft Konten
