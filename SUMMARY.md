@@ -11,6 +11,7 @@
 * [Installation ModPack](minecraft/installation.md)
 * [Minecraft und Microsoft Konten](minecraft/minecraft-und-microsoft-konten.md)
 * [Welten verwalten](minecraft/welten-verwalten.md)
+* [Modpacks in ATLauncher](minecraft/modpacks.md)
 
 ## MineTest
 
