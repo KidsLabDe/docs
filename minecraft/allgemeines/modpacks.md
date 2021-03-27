@@ -1,5 +1,6 @@
 ---
-description: Im AtLauncher kann man mit wenigen Klicks einen von hunderten ModPacks
+description: >-
+  Im AtLauncher kann man mit wenigen Klicks einen von hunderten ModPacks
   installieren. Wie das geht, und ein paar Beispiele zeige ich Dir hier!
 ---
 
@@ -13,7 +14,7 @@ Die Installation geht mit diesen einfachen Schritten:
 2. Gib einen Suchbegriff ein und klicke auf "Search"
 3. Klicke auf "New Instance"
 
-![](../.gitbook/assets/atlauncher-modpacks.png)
+![](../../.gitbook/assets/atlauncher-modpacks.png)
 
 Den ganzen Rest, Installieren, Entpacken etc. übernimmt der AtLauncher für Dich!
 
@@ -21,5 +22,5 @@ Den ganzen Rest, Installieren, Entpacken etc. übernimmt der AtLauncher für Dic
 
 ### PixelMon - Pokemon in Minecraft
 
-![](../.gitbook/assets/atlauncher-pixelmon.png)
+![](../../.gitbook/assets/atlauncher-pixelmon.png)
 
