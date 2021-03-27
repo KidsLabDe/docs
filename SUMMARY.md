@@ -20,3 +20,7 @@
 * [Installation \(Mac\)](minetest/installation-minetest-mac.md)
 * [Minetest - Grundsätzliche Bedienung](minetest/minetest-grundsaetzliche-bedienung.md)
 
+## Scratch
+
+* [Erste Schritte](scratch/erste-schritte.md)
+
