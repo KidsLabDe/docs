@@ -1,6 +1,7 @@
 ---
-description: Die Bedienung von Minetest unterscheidet sich nur minimal von Minecraft.
-  Was genau anders ist, wird hier erklärt.
+description: >-
+  Die Bedienung von Minetest unterscheidet sich nur minimal von Minecraft. Was
+  genau anders ist, wird hier erklärt.
 ---
 
 # Minetest - Grundsätzliche Bedienung
@@ -15,7 +16,10 @@ description: Die Bedienung von Minetest unterscheidet sich nur minimal von Minec
 * **K**: Fliegen \(Space hoch, Shift runter\)
 
 {% hint style="info" %}
-**Inventar** -&gt; I **Fliegen** -&gt; K schaltet Flugmodus an und ab / Shift runterfliegen
+**Unterschiede zu Minecraft**
+
+* **Inventar** -&gt; "I" 
+* **Fliegen** -&gt; "K" schaltet Flugmodus an und ab / Shift runterfliegen
 {% endhint %}
 
 Erweiterte Funktionen:
