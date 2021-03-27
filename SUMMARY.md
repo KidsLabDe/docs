@@ -16,10 +16,10 @@
 
 ## MineTest
 
-* [Übersicht](minetest/uebersicht-minetest.md)
-* [Installation \(Windows\)](minetest/installation-von-minetest.md)
-* [Installation \(Mac\)](minetest/installation-minetest-mac.md)
-* [Minetest - Grundsätzliche Bedienung](minetest/minetest-grundsaetzliche-bedienung.md)
+* [Allgemeines](minetest/allgemeines/README.md)
+  * [Installation \(Mac\)](minetest/allgemeines/installation-minetest-mac.md)
+  * [Installation \(Windows\)](minetest/allgemeines/installation-von-minetest.md)
+  * [Minetest - Grundsätzliche Bedienung](minetest/allgemeines/minetest-grundsaetzliche-bedienung.md)
 
 ## Scratch
 

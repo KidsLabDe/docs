@@ -1,4 +1,6 @@
-# Übersicht
+# Allgemeines
+
+
 
 * Kostenlose, OpenSource alternative
 * Sehr einfache Installation
