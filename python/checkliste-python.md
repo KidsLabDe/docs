@@ -1,7 +1,6 @@
 ---
-description: >-
-  Auf dieser Seite erklären wir dir die Einrichtung des Mu Editors und alles
-  andere, was du für die Scratch-Workshop benötigst.
+description: Auf dieser Seite erklären wir dir die Einrichtung des Mu Editors und
+  alles andere, was du für die Scratch-Workshop benötigst.
 ---
 
 # Checkliste - Python mit Mu
