@@ -25,3 +25,7 @@
 
 * [Erste Schritte](scratch/erste-schritte.md)
 
+## Python
+
+* [Checkliste - Python mit Mu](python/checkliste-python.md)
+
