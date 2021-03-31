@@ -14,6 +14,10 @@
   * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)
   * [Minecraft und Microsoft Konten](minecraft/allgemeines/minecraft-und-microsoft-konten.md)
   * [Installation ModPack](minecraft/allgemeines/installation.md)
+* [Erste Schritte mit Robokröti](minecraft/erste-schritte-mit-robokroeti.md)
+* [Schleifen](minecraft/schleifen/README.md)
+  * [Einführung](minecraft/schleifen/schleifen-einfuehrung.md)
+  * [Der Smaragd-Mäh-Roboter](minecraft/schleifen/der-smaragd-maeh-roboter.md)
 * [Infos für Lehrer / Educator](minecraft/infos-fuer-lehrer-educator/README.md)
   * [Spezielle Blöcke für Robokröti](minecraft/infos-fuer-lehrer-educator/spezielle-bloecke-fuer-robokroeti.md)
 
@@ -31,8 +35,4 @@
 ## Python
 
 * [Checkliste - Python mit Mu](python/checkliste-python.md)
-
----
-
-* [Erste Schritte mit Robokröti](erste-schritte-mit-robokroeti.md)
 
