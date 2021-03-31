@@ -1,7 +1,5 @@
 # Allgemeines
 
-
-
 * Kostenlose, OpenSource alternative
 * Sehr einfache Installation
 * “Ist zwar nicht Minecraft, aber fast” \(mein Sohn\)

@@ -6,7 +6,7 @@ Um in Minecraft Programmieren zu können, benötigt man eine spezielle Minecraft
 
 Zum spielen benötigt ihr die "Minecraft Java Edition". Die gibts hier für 24 €, wenn ihr sie noch nicht habt**:** [**https://www.minecraft.net/de-de/store/minecraft-java-edition**](https://www.minecraft.net/de-de/store/minecraft-java-edition)\*\*\*\*
 
-Wenn deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite:  [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
+Wenn deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
 
 {% hint style="info" %}
 Solltest Du keine Minecraft-Lizenz haben - sag Bescheid, ich kann Dir für die Dauer des Kurses eine meiner Lizenzen geben.
@@ -20,7 +20,7 @@ Tablets, Playstation oder ähnliche Geräte gehen leider nicht! Diese Versionen 
 
 Ich habe alles in einem ModPack zusammengestellt. Im Folgenden Video erkläre ich Dir, wie man dieses installieren kann.
 
-{% embed url="https://www.youtube.com/watch?v=ZVzh\_TBWidI" %}
+{% embed url="https://www.youtube.com/watch?v=ZVzh\_TBWidI" caption="" %}
 
 ### AtLauncher Download
 
@@ -30,11 +30,9 @@ Und hier gehts zum Download: [https://atlauncher.com/downloads](https://atlaunch
 
 Die Adresse, die du unter "Instances" im Import-Dialog eingeben musst: [https://kidslab.de/modpack](https://kidslab.de/modpack)
 
-
-
 ### **MacOS statt Windows?**
 
-{% embed url="https://www.youtube.com/watch?v=5W90RZHVCZY" %}
+{% embed url="https://www.youtube.com/watch?v=5W90RZHVCZY" caption="" %}
 
 ### Verbinden zum Server
 

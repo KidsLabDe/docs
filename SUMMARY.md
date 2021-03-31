@@ -8,6 +8,8 @@
 
 ## Minecraft
 
+* [Infos für Lehrer / Educator](minecraft/infos-fuer-lehrer-educator/README.md)
+  * [Spezielle Blöcke für Robokröti](minecraft/infos-fuer-lehrer-educator/spezielle-bloecke-fuer-robokroeti.md)
 * [Allgemeines](minecraft/allgemeines/README.md)
   * [Modpacks in ATLauncher](minecraft/allgemeines/modpacks.md)
   * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)

@@ -2,7 +2,7 @@
 
 Die aktuelle Version kann auf dieser Seite heruntergeladen werden:
 
-{% embed url="https://github.com/neoascetic/minetest/releases/download/2020-11-19/minetest-5.4.0-dev-10.13.6-osx.zip" %}
+{% embed url="https://github.com/neoascetic/minetest/releases/download/2020-11-19/minetest-5.4.0-dev-10.13.6-osx.zip" caption="" %}
 
 Nachdem der Download abgeschlossen wurde, liegt die Datei im "Downloads" Ordner.
 

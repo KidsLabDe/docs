@@ -1,7 +1,5 @@
 # Erste Schritte
 
-
-
 ```text
 # Summary
 

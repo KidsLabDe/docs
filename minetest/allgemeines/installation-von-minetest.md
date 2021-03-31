@@ -33,7 +33,5 @@ Auf Verbinden klicken - fertig!
 
 Oder noch mal als kleines Video:
 
-{% embed url="https://www.youtube.com/watch?v=TufCUvIcOI8" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=TufCUvIcOI8" caption="" %}
 

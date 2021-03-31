@@ -1,6 +1,7 @@
 ---
-description: Auf dieser Seite erklären wir dir die Einrichtung des Mu Editors und
-  alles andere, was du für die Scratch-Workshop benötigst.
+description: >-
+  Auf dieser Seite erklären wir dir die Einrichtung des Mu Editors und alles
+  andere, was du für die Scratch-Workshop benötigst.
 ---
 
 # Checkliste - Python mit Mu
@@ -47,8 +48,6 @@ def draw():
 * Starte das Spiel über den Button “Spielen.”
 
 ![](../.gitbook/assets/image%20%283%29.png)
-
-
 
 {% hint style="success" %}
 ## Siehst du nun auch das Alien? Super, dann hat alles geklappt! <a id="Checkliste---Python-for-Kids-&#x2013;-Programmiere-Spiele-mit-Mu"></a>
