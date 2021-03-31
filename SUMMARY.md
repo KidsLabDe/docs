@@ -32,3 +32,7 @@
 
 * [Checkliste - Python mit Mu](python/checkliste-python.md)
 
+---
+
+* [Erste Schritte mit Robokröti](erste-schritte-mit-robokroeti.md)
+
