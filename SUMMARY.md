@@ -17,7 +17,12 @@
 * [Erste Schritte mit Robokröti](minecraft/erste-schritte-mit-robokroeti.md)
 * [Schleifen](minecraft/schleifen/README.md)
   * [Einführung](minecraft/schleifen/schleifen-einfuehrung.md)
+  * [Verschachtelte Schleifen](minecraft/schleifen/verschachtelte-schleifen.md)
   * [Der Smaragd-Mäh-Roboter](minecraft/schleifen/der-smaragd-maeh-roboter.md)
+* [Programme & Disketten](minecraft/programme-and-disketten/README.md)
+  * [Unterprogramme](minecraft/programme-and-disketten/unterprogramme.md)
+* [Tipps & Tricks](minecraft/tipps-and-tricks/README.md)
+  * [Automatisches Wechseln des Inventars](minecraft/tipps-and-tricks/automatisches-wechseln-des-inventars.md)
 * [Infos für Lehrer / Educator](minecraft/infos-fuer-lehrer-educator/README.md)
   * [Spezielle Blöcke für Robokröti](minecraft/infos-fuer-lehrer-educator/spezielle-bloecke-fuer-robokroeti.md)
 
