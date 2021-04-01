@@ -1,6 +1,5 @@
 ---
-description: >-
-  Im AtLauncher kann man mit wenigen Klicks einen von hunderten ModPacks
+description: Im AtLauncher kann man mit wenigen Klicks einen von hunderten ModPacks
   installieren. Wie das geht, und ein paar Beispiele zeige ich Dir hier!
 ---
 
