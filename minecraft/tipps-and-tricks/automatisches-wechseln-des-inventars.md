@@ -12,3 +12,7 @@ Um diesen Fehler zu beheben, musst du also den Inventar-Platz wechseln. Hier fin
 
 ![](../../.gitbook/assets/turtle-automatisches-inventar.png)
 
+Was macht dieses Programm?
+
+Es benutzt die Variable "F". Der Block "Setze Block" liefert den Wert "Falsch" zurück, wenn er nicht erfolgreich ist - zum Beispiel, weil das Inventar leer ist. Das nutzen wir, um den Inventar Platz zu wechseln, solange, bis wieder es wieder geht.
+
