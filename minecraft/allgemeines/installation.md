@@ -40,7 +40,7 @@ Wenn du die richtige Minecraft Version installiert hast, solltest du das sehen:
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/turtle-serverauswahl.png)
 
 Sieht dein Screen jetzt so aus? Super!
 
