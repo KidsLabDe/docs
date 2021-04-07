@@ -9,11 +9,11 @@
 ## Minecraft
 
 * [Allgemeines](minecraft/allgemeines/README.md)
-  * [Allgemeine Bedienung / Java Edition](minecraft/allgemeines/allgemeine-bedienung-java-edition.md)
-  * [Modpacks in ATLauncher](minecraft/allgemeines/modpacks.md)
-  * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)
-  * [Minecraft und Microsoft Konten](minecraft/allgemeines/minecraft-und-microsoft-konten.md)
   * [Installation ModPack](minecraft/allgemeines/installation.md)
+  * [Minecraft und Microsoft Konten](minecraft/allgemeines/minecraft-und-microsoft-konten.md)
+  * [Allgemeine Bedienung / Java Edition](minecraft/allgemeines/allgemeine-bedienung-java-edition.md)
+  * [Andere Modpacks in ATLauncher](minecraft/allgemeines/modpacks.md)
+  * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)
 * [Erste Schritte mit Robokröti](minecraft/erste-schritte-mit-robokroeti.md)
 * [Schleifen](minecraft/schleifen/README.md)
   * [Einführung](minecraft/schleifen/schleifen-einfuehrung.md)

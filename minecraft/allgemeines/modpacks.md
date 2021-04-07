@@ -1,9 +1,10 @@
 ---
-description: Im AtLauncher kann man mit wenigen Klicks einen von hunderten ModPacks
+description: >-
+  Im AtLauncher kann man mit wenigen Klicks einen von hunderten ModPacks
   installieren. Wie das geht, und ein paar Beispiele zeige ich Dir hier!
 ---
 
-# Modpacks in ATLauncher
+# Andere Modpacks in ATLauncher
 
 Im AtLauncher kann man sehr einfach neue ModPacks installieren. Mods und ModPacks sind das eigentliche Juwel in Minecraft \(Java\): kostenlose Erweiterungen, die aus deinem Minecraft eine Raketenstartbasis, eine Pokemon-Spiel oder ein Harry-Pooter Abenteuer machen!
 

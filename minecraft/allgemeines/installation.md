@@ -4,15 +4,15 @@
 
 Um in Minecraft Programmieren zu können, benötigt man eine spezielle Minecraft-Version und auch ein paar "Mods" \(Erweiterungen von Minecraft.\)
 
-Zum spielen benötigt ihr die "Minecraft Java Edition". Die gibts hier für 24 €, wenn ihr sie noch nicht habt**:** [**https://www.minecraft.net/de-de/store/minecraft-java-edition**](https://www.minecraft.net/de-de/store/minecraft-java-edition)\*\*\*\*
+Zum spielen benötigt ihr die "Minecraft Java Edition". Die gibts hier für 24 €, wenn ihr sie noch nicht habt**:** [**https://www.minecraft.net/de-de/store/minecraft-java-edition**](https://www.minecraft.net/de-de/store/minecraft-java-edition)
+
+{% hint style="info" %}
+Solltest Du keine Minecraft-Lizenz haben - sag Bescheid, ich kann Dir für die Dauer des Kurses eine meiner Lizenzen geben. **Empfehlung ist eine eigene Lizenz, um auch noch dem Kurs selber weitermachen zu können** 
+{% endhint %}
 
 Wenn deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
 
-{% hint style="info" %}
-Solltest Du keine Minecraft-Lizenz haben - sag Bescheid, ich kann Dir für die Dauer des Kurses eine meiner Lizenzen geben.
-{% endhint %}
-
-{% hint style="info" %}
+{% hint style="warning" %}
 Tablets, Playstation oder ähnliche Geräte gehen leider nicht! Diese Versionen sind untereinander leider nicht kompatibel
 {% endhint %}
 
