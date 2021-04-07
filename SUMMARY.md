@@ -26,6 +26,7 @@
   * [Automatisches Wechseln des Inventars](minecraft/tipps-and-tricks/automatisches-wechseln-des-inventars.md)
 * [Infos für Lehrer / Educator](minecraft/infos-fuer-lehrer-educator/README.md)
   * [Spezielle Blöcke für Robokröti](minecraft/infos-fuer-lehrer-educator/spezielle-bloecke-fuer-robokroeti.md)
+  * [Eigenen Server betreiben](minecraft/infos-fuer-lehrer-educator/eigenen-server-betreiben.md)
 
 ## MineTest
 

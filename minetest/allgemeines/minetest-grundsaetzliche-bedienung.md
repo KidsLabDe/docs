@@ -1,6 +1,7 @@
 ---
-description: Die Bedienung von Minetest unterscheidet sich nur minimal von Minecraft.
-  Was genau anders ist, wird hier erklärt.
+description: >-
+  Die Bedienung von Minetest unterscheidet sich nur minimal von Minecraft. Was
+  genau anders ist, wird hier erklärt.
 ---
 
 # Minetest - Grundsätzliche Bedienung
