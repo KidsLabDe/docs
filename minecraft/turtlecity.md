@@ -4,6 +4,14 @@ Die TurtleCity ist eine Stadt, die von den Schildkröten selbst gebaut wurde, na
 
 Die Stadt selbst läuft im Abenteuer Modus. Du kannst also selbst nicht bauen oder abbauen - aber die Schildkröten natürlich!
 
+{% hint style="danger" %}
+Die Regeln für TurtleCity:
+
+* **Be excellent to each other = Seid nett zueinander!**
+* **Nur auf dem eigenen Bauplatz oder Grundstück programmieren oder bauen**
+* **Keine anderen Schildkröten oder Bauwerke verändern oder beschädigen!**
+{% endhint %}
+
 ## Wie bekomme ich Kröten und alles was ich brauche?
 
 Am Eingang erwartet dich "Verleihnix" - der versorgt Dich erst mal mit etwas Geld - damit kannst Du Dir dann alles weitere besorgen: Du bekommst 64x Silbermünzen und 64x Smaragdmünzen. Das ist für einen Tag, wenn Du morgen wiederkommst, drückt Dir der liebe Verleihnix gleich wieder den gleichen Betrag in die Hand!
