@@ -38,6 +38,7 @@
 ## Scratch
 
 * [Erste Schritte](scratch/erste-schritte.md)
+* [PacMan!](scratch/pacman.md)
 
 ## Python
 
