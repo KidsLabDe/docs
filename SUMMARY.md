@@ -5,6 +5,7 @@
 ## Allgemeines
 
 * [Checkliste - Online-Workshop](allgemeines/checkliste-online-workshop.md)
+* [Lizenzen &Weitergabe](allgemeines/lizenzen-and-weitergabe.md)
 
 ## Minecraft
 
