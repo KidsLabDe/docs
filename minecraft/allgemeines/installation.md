@@ -1,5 +1,6 @@
 ---
-description: Um in Minecraft Programmieren zu können, benötigt man eine spezielle
+description: >-
+  Um in Minecraft Programmieren zu können, benötigt man eine spezielle
   Minecraft-Version und auch ein paar "Mods" (Erweiterungen von Minecraft.)
 ---
 
@@ -33,7 +34,7 @@ Ich habe alles in einem ModPack zusammengestellt. Im Folgenden erkläre ich Dir,
    2. Microsoft Account? Auf "Login with Microsoft" klicken und anmelden
 5. Rechts "**Instances**" auswählen
 6. Links oben auf "**Import**" klicken
-7. Folgende **URL** eintippen oder einfügen: https://kidslab.de/modpack
+7. Folgende **URL** eintippen oder einfügen: [https://kidslab.de/modpack](https://kidslab.de/modpack)
 8. Fertig! 
 
 {% embed url="https://www.youtube.com/watch?v=ZVzh\_TBWidI" caption="Video-Anleitung für die Installation unter Windows" %}
@@ -50,7 +51,7 @@ Ich habe alles in einem ModPack zusammengestellt. Im Folgenden erkläre ich Dir,
    2. Microsoft Account? Auf "Login with Microsoft" klicken und anmelden
 7. Rechts "**Instances**" auswählen
 8. Links oben auf "**Import**" klicken
-9. Folgende URL eintippen oder einfügen: **https://kidslab.de/modpack**
+9. Folgende URL eintippen oder einfügen: [https://kidslab.de/modpack](https://kidslab.de/modpack)
 10. Fertig! 
 
 {% embed url="https://www.youtube.com/watch?v=5W90RZHVCZY" caption="Video-Anleitung für die Installation unter MacOS" %}
