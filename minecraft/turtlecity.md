@@ -4,6 +4,10 @@ Die TurtleCity ist eine Stadt, die von den Schildkröten selbst gebaut wurde, na
 
 Die Stadt selbst läuft im Abenteuer Modus. Du kannst also selbst nicht bauen oder abbauen - aber die Schildkröten natürlich!
 
+{% hint style="info" %}
+**Öffnungszeiten**: TurtleCity ist jeden Tag von **14:00 bis 18:00 Uhr** geöffnet
+{% endhint %}
+
 {% hint style="danger" %}
 Die Regeln für TurtleCity:
 
