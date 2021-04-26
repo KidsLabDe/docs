@@ -36,9 +36,13 @@ Es gibt 2 verschiedene Kröten:
 
 ![Kann nur in der Stadt benutzt werden](../.gitbook/assets/turtle-city-laden-stadtkro-te.png)
 
-### Waldkröte - für alles außerhalb der Stadt
+### Waldkröte - für Baumfällen außerhalb der Stadt
 
 ![Kannst du &#xFC;berall au&#xDF;erhalb der Stadt benutzen, l&#xE4;sst sich auf Gras setzen](../.gitbook/assets/turtle-city-laden-waldkro-te.png)
+
+### Minerkröte - für Minen außerhalb der Stadt
+
+![Damit kannst du noch Herzenslust rumbuddeln. L&#xE4;sst sich auf Gras setzen.](../.gitbook/assets/turtle-city-minerkroete.png)
 
 Es gibt auch eine spezielle Hacke - mit der kannst du Kröten und die Blöcke, die für das Bauen in der Stadt gedacht sind, abbauen.
 
