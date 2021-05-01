@@ -45,3 +45,10 @@
 
 * [Checkliste - Python mit Mu](python/checkliste-python.md)
 
+## Lego
+
+* [Tipps & Tricks für Workshops](lego/tipps-and-tricks-fuer-workshops.md)
+* [Erste Schritte mit Mindstorms EV3 Education](lego/erste-schritte-mit-mindstorms-ev3-education.md)
+* [Projektvorschlag - Baue einen Roboter, der dein Leben besser macht](lego/projektvorschlag-baue-einen-roboter-der-dein-leben-besser-macht.md)
+* [Interessante Seiten und Projekt](lego/interessante-seiten-und-projekt.md)
+
