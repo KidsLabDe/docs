@@ -37,7 +37,7 @@ Daher empfehle ich folgende Tipps:
 
 Hier findest du ein kleines Merkblatt, das in in meine Kästen lege:
 
-{% file src="../.gitbook/assets/lego-regeln.pdf" caption="Regel-Blatt für Lego-WeDo und Mindstorm Kästen" %}
+{% file src="../../.gitbook/assets/lego-regeln.pdf" caption="Regel-Blatt für Lego-WeDo und Mindstorm Kästen" %}
 
 {% hint style="info" %}
 Nicht alles fertig geworden? Wenn man genug Kästen hat, kann man jeweils auch einen Kasten für ein Team reservieren, mit einem Klebezettel beschriften und bis zum nächsten Workshop den Roboter aufgebaut lassen. 

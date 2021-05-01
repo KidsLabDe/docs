@@ -1,15 +1,16 @@
 ---
-description: Folgender Projektvorschlag eignet sich für einen Einstiegs-Workshops
-  mit Lego Mindstorms.
+description: >-
+  Folgender Projektvorschlag eignet sich für einen Einstiegs-Workshops mit Lego
+  Mindstorms.
 ---
 
 # Projektvorschlag - Baue einen Roboter, der dein Leben besser macht
 
 ## Einführung
 
-Im besten Fall haben die Kinder schon etwas Erfahrung mit Lego Mindstorms gesammelt \(siehe[ Tipps & Tricks](tipps-and-tricks-fuer-workshops.md)\):  So können sie abschätzen, was die Roboter machen können \(Bewegen, Fahren etc\) und welche Sensoren es gibt. Das hilft, bei Schritt 2 - sonst sind die Erwartungen zu hoch und werden vielleicht enttäuscht. 
+Im besten Fall haben die Kinder schon etwas Erfahrung mit Lego Mindstorms gesammelt \(siehe[ Tipps & Tricks](tipps-and-tricks-fuer-workshops.md)\): So können sie abschätzen, was die Roboter machen können \(Bewegen, Fahren etc\) und welche Sensoren es gibt. Das hilft, bei Schritt 2 - sonst sind die Erwartungen zu hoch und werden vielleicht enttäuscht.
 
-Dieser Workshop lässt sich an einem Tag durchführen - vielleicht werden nicht alle Roboter fertig, aber 
+Dieser Workshop lässt sich an einem Tag durchführen - vielleicht werden nicht alle Roboter fertig, aber
 
 ## Schritt 1: Brainstorming - Welches Problem soll der Roboter FÜR DICH lösen?
 
@@ -21,7 +22,7 @@ Dieser Workshop lässt sich an einem Tag durchführen - vielleicht werden nicht 
 * Lasst die anderen ausreden
 
 {% hint style="info" %}
-Im ersten Schritt sammeln wir so viele Ideen und Sachen wie möglich. Wir machen den Trichter maximal auf 
+Im ersten Schritt sammeln wir so viele Ideen und Sachen wie möglich. Wir machen den Trichter maximal auf
 {% endhint %}
 
 ## Schritt 2: Team Work - erfindet den passenden Roboter für ein Problem
@@ -58,12 +59,4 @@ Stellt Euren Roboter vor, zeigt was er kann!
 
 * Wie kann es weiter gehen? 
 * Was gibt es noch zu machen?
-
-
-
-
-
-
-
-
 
