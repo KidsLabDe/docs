@@ -1,6 +1,7 @@
 ---
-description: Du bist bereit um mit dem Mindstorms Set zu starten? Hier findest Du,
-  wie und wo man gut anfangen kann.
+description: >-
+  Du bist bereit um mit dem Mindstorms Set zu starten? Hier findest Du, wie und
+  wo man gut anfangen kann.
 ---
 
 # Erste Schritte mit Mindstorms EV3 Education
@@ -32,4 +33,24 @@ Die Lego Education-Sofware kann grundsätlich auch mit der normalen Version von 
 {% hint style="success" %}
 Ich empfehle die Benutzung mit Tablet: egal ob Android oder Apple - mit einem Tablet lässt sich meistens einfacher umgehen und sie benötigen beim Bauen weniger Platz als ein Laptop oder PC.
 {% endhint %}
+
+## Erster Einstieg
+
+### Setup
+
+Wenn Du die Software gestartet hast, führ Dich die Software Schritt für Schritt durch die Bedienung:
+
+* Aufbau des Sets
+* "Brick" \(Das Gehirn\) vorbereiten
+* Koppeln mit dem Computer
+
+### Erstes Projekt
+
+Ich Empfehle, mit den Projekten aus "Roboter-Trainer" im Bereich "Lerneinheiten" zu starten:
+
+![](../../.gitbook/assets/21-05-01-12-17-11-1326.png)
+
+![](../../.gitbook/assets/21-05-01-12-18-08-1327.png)
+
+Diese einzelnen Aufgaben führen Schritt für Schritt an die Möglichkeiten heran.
 

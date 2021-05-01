@@ -48,8 +48,8 @@
 ## Lego
 
 * [Lego Mindstorms EV3](lego/lego-mindstorms-ev3/README.md)
-  * [Interessante Seiten und Projekt](lego/lego-mindstorms-ev3/interessante-seiten-und-projekt.md)
-  * [Projektvorschlag - Baue einen Roboter, der dein Leben besser macht](lego/lego-mindstorms-ev3/projektvorschlag-baue-einen-roboter-der-dein-leben-besser-macht.md)
   * [Tipps & Tricks für Workshops](lego/lego-mindstorms-ev3/tipps-and-tricks-fuer-workshops.md)
   * [Erste Schritte mit Mindstorms EV3 Education](lego/lego-mindstorms-ev3/erste-schritte-mit-mindstorms-ev3-education.md)
+  * [Projektvorschlag - Baue einen Roboter, der dein Leben besser macht](lego/lego-mindstorms-ev3/projektvorschlag-baue-einen-roboter-der-dein-leben-besser-macht.md)
+  * [Interessante Seiten und Projekt](lego/lego-mindstorms-ev3/interessante-seiten-und-projekt.md)
 
