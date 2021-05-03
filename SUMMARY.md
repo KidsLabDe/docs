@@ -15,6 +15,7 @@
   * [Allgemeine Bedienung / Java Edition](minecraft/allgemeines/allgemeine-bedienung-java-edition.md)
   * [Andere Modpacks in ATLauncher](minecraft/allgemeines/modpacks.md)
   * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)
+  * [Minecraft Shader](minecraft/allgemeines/minecraft-shader.md)
 * [🐢TurtleCity](minecraft/turtlecity.md)
 * [Erste Schritte mit Robokröti](minecraft/erste-schritte-mit-robokroeti.md)
 * [Schleifen](minecraft/schleifen/README.md)
