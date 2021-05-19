@@ -1,5 +1,6 @@
 ---
-description: Hier erfährst Du, wie du die normale Minecraft Java Version installieren
+description: >-
+  Hier erfährst Du, wie du die normale Minecraft Java Version installieren
   kannst.
 ---
 
@@ -45,6 +46,10 @@ Nach dem anmelden und start musst Du nur noch den Server anlegen:
   * "**Fertig**" zum bestätigen
 * Server auswählen
 * **"Server beitreten"**  
+
+{% hint style="warning" %}
+Du kannst keinem Server beitreten? Wenn deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
+{% endhint %}
 
 {% hint style="success" %}
 Du siehst jetzt eine leere Welt? **Geschafft**!
