@@ -11,6 +11,7 @@
 
 * [Allgemeines](minecraft/allgemeines/README.md)
   * [Installation ModPack](minecraft/allgemeines/installation.md)
+  * [Installation Minecraft Java](minecraft/allgemeines/installation-minecraft-java.md)
   * [Minecraft und Microsoft Konten](minecraft/allgemeines/minecraft-und-microsoft-konten.md)
   * [Allgemeine Bedienung / Java Edition](minecraft/allgemeines/allgemeine-bedienung-java-edition.md)
   * [Andere Modpacks in ATLauncher](minecraft/allgemeines/modpacks.md)
