@@ -1,5 +1,6 @@
 ---
-description: Hier erfährst Du, wie du die normale Minecraft Java Version installieren
+description: >-
+  Hier erfährst Du, wie du die normale Minecraft Java Version installieren
   kannst.
 ---
 
@@ -8,12 +9,12 @@ description: Hier erfährst Du, wie du die normale Minecraft Java Version instal
 ## Herunterladen der Java-Version
 
 {% hint style="info" %}
-Verwirrt von den verschiedenen Version? Hier eine kleine [Übersicht](minecraft-versionen.md). 
+Verwirrt von den verschiedenen Version? Hier eine kleine [Übersicht](minecraft-versionen.md).
 {% endhint %}
 
 Lade den Installer für die Minecraft Java Version hier herunter:
 
-{% embed url="https://www.minecraft.net/de-de/download" %}
+{% embed url="https://www.minecraft.net/de-de/download" caption="" %}
 
 ![](../../.gitbook/assets/java-1-download.png)
 
@@ -47,7 +48,7 @@ Nach dem anmelden und start musst Du nur noch den Server anlegen:
 * **"Server beitreten"**  
 
 {% hint style="success" %}
-Du siehst jetzt eine leere Welt? **Geschafft**! 
+Du siehst jetzt eine leere Welt? **Geschafft**!
 
 **Du kannst nichts abbauen oder machen**? Das ist richtig so - diese Welt ist nur zum testen da!
 {% endhint %}
