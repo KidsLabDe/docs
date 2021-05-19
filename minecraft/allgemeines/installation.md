@@ -1,5 +1,6 @@
 ---
-description: Um in Minecraft Programmieren zu können, benötigt man eine spezielle
+description: >-
+  Um in Minecraft Programmieren zu können, benötigt man eine spezielle
   Minecraft-Version und auch ein paar "Mods" (Erweiterungen von Minecraft.)
 ---
 
@@ -10,7 +11,7 @@ description: Um in Minecraft Programmieren zu können, benötigt man eine spezie
 Zum Spielen benötigst Du eine Lizenz für die "Minecraft Java Edition".
 
 {% hint style="info" %}
-Solltest Du keine Minecraft-Lizenz haben - sag Bescheid, ich kann Dir für die Dauer des Kurses eine meiner Lizenzen geben. 
+Solltest Du keine Minecraft-Lizenz haben - sag Bescheid, ich kann Dir für die Dauer des Kurses eine meiner Lizenzen geben.
 
 Um auch noch dem Kurs selber weitermachen zu können, kannst Du eine eigene Lizenz für 24€ hier kaufen: [**Minecraft-Java**](https://www.minecraft.net/de-de/store/minecraft-java-edition)
 {% endhint %}
