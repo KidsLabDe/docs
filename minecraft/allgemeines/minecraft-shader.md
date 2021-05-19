@@ -1,7 +1,6 @@
 ---
-description: >-
-  Shader machen Minecraft viel schöner: die Wolken, das Wasser, das Licht -
-  alles (fast) wie echt.
+description: 'Shader machen Minecraft viel schöner: die Wolken, das Wasser, das Licht
+  - alles (fast) wie echt.'
 ---
 
 # Minecraft Shader
