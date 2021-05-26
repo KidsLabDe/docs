@@ -1,5 +1,6 @@
 ---
-description: Hier erfährst Du, wie du die normale Minecraft Java Version installieren
+description: >-
+  Hier erfährst Du, wie du die normale Minecraft Java Version installieren
   kannst.
 ---
 

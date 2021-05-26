@@ -6,6 +6,7 @@
 
 * [Checkliste - Online-Workshop](allgemeines/checkliste-online-workshop.md)
 * [Lizenzen &Weitergabe](allgemeines/lizenzen-and-weitergabe.md)
+* [Medienzeit: Wie lange ist gut?](allgemeines/medienzeit-wie-lange-ist-gut.md)
 
 ## Minecraft
 
