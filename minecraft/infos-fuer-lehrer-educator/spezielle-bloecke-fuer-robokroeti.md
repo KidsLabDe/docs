@@ -1,6 +1,8 @@
 ---
-description: Durch spezielle Blöcke kann man Welten erschaffen, bei denen die Schildkröten
-  nur bestimmte Bereiche betreten können. Perfekt für Multi-Player und Server-Welten
+description: >-
+  Durch spezielle Blöcke kann man Welten erschaffen, bei denen die Schildkröten
+  nur bestimmte Bereiche betreten können. Perfekt für Multi-Player und
+  Server-Welten
 ---
 
 # Spezielle Blöcke für Robokröti

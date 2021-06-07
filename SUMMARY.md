@@ -40,6 +40,10 @@
   * [Installation \(Windows\)](minetest/allgemeines/installation-von-minetest.md)
   * [Minetest - Grundsätzliche Bedienung](minetest/allgemeines/minetest-grundsaetzliche-bedienung.md)
 
+---
+
+* [WorkAdventure](workadventure.md)
+
 ## Scratch
 
 * [Erste Schritte](scratch/erste-schritte.md)

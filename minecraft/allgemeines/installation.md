@@ -1,5 +1,6 @@
 ---
-description: Um in Minecraft Programmieren zu können, benötigt man eine spezielle
+description: >-
+  Um in Minecraft Programmieren zu können, benötigt man eine spezielle
   Minecraft-Version und auch ein paar "Mods" (Erweiterungen von Minecraft.)
 ---
 

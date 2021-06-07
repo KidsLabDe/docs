@@ -1,5 +1,6 @@
 ---
-description: Man kann in Minecraft abgesicherte Spiele, sogenannte Welten, kopieren,
+description: >-
+  Man kann in Minecraft abgesicherte Spiele, sogenannte Welten, kopieren,
   einfügen und sichern. Hier liest Du, wie das geht.
 ---
 

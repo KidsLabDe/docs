@@ -1,6 +1,7 @@
 ---
-description: Auf dieser Seite findest Du eine Sammlung von interessanten Projekten
-  und Webseiten, die Dich bei Deinen Projekten inspirieren und anleiten können.
+description: >-
+  Auf dieser Seite findest Du eine Sammlung von interessanten Projekten und
+  Webseiten, die Dich bei Deinen Projekten inspirieren und anleiten können.
 ---
 
 # Interessante Seiten und Projekt

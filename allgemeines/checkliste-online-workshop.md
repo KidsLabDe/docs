@@ -1,5 +1,7 @@
 ---
-description: Dieses Dokument hilft Dir, dich perfekt für einen Online-Workshops vorzubereiten.
+description: >-
+  Dieses Dokument hilft Dir, dich perfekt für einen Online-Workshops
+  vorzubereiten.
 ---
 
 # Checkliste - Online-Workshop
