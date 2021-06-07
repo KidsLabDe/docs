@@ -26,10 +26,12 @@ Damit landet das Minetest-Icon auf dem Desktop. Mit Doppel-Klick starten und es 
 Adresse unseres Servers:
 
 * server.kidslab.de
-* Port: 30000 \(ist schon eingestellt\)
+* Port: 30001
 * Name: Dein Name :-\)
 
 Auf Verbinden klicken - fertig!
+
+Nicht wundern - du bist dann in einer mehr oder weniger leeren Welt!
 
 Oder noch mal als kleines Video:
 

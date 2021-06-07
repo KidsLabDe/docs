@@ -1,6 +1,7 @@
 ---
-description: Du bist bereit um mit dem Mindstorms Set zu starten? Hier findest Du,
-  wie und wo man gut anfangen kann.
+description: >-
+  Du bist bereit um mit dem Mindstorms Set zu starten? Hier findest Du, wie und
+  wo man gut anfangen kann.
 ---
 
 # Erste Schritte mit Mindstorms EV3 Education

@@ -1,6 +1,7 @@
 ---
-description: Folgender Projektvorschlag eignet sich für einen Einstiegs-Workshops
-  mit Lego Mindstorms.
+description: >-
+  Folgender Projektvorschlag eignet sich für einen Einstiegs-Workshops mit Lego
+  Mindstorms.
 ---
 
 # Projektvorschlag - Baue einen Roboter, der dein Leben besser macht
