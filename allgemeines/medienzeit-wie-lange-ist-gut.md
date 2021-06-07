@@ -1,8 +1,7 @@
 ---
-description: >-
-  Wie viel Bildschirmzeit ist gut, was ist zu lange? Das ist eine sehr komplexe
-  Frage, die nicht leicht zu beantworten ist! Ich möchte Dir hier ein paar Tipps
-  geben und meine Erfahrungen teilen
+description: Wie viel Bildschirmzeit ist gut, was ist zu lange? Das ist eine sehr
+  komplexe Frage, die nicht leicht zu beantworten ist! Ich möchte Dir hier ein paar
+  Tipps geben und meine Erfahrungen teilen
 ---
 
 # Medienzeit: Wie lange ist gut?
