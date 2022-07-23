@@ -1,16 +1,14 @@
 # Erste Schritte mit Robokröti
 
-![Das ist sie - Robokr&#xF6;ti - oder auch &quot;Mining Turtle&quot; aus der ComputerCraftEDU Mod.](../.gitbook/assets/minecraft-turtle.png)
+![Das ist sie - Robokröti - oder auch "Mining Turtle" aus der ComputerCraftEDU Mod.](<../.gitbook/assets/Minecraft Turtle.png>)
 
-Die Mod wurde vor vielen Jahren entwickelt, von [Daniel Ratcliffe](https://github.com/dan200). 
+Die Mod wurde vor vielen Jahren entwickelt, von [Daniel Ratcliffe](https://github.com/dan200).&#x20;
 
 {% embed url="https://computercraftedu.com/" %}
 
 ## Fernbedienung
 
 Um eine Schildkröte bedienen zu können, benötigst Du eine Fernbedienung.
-
-
 
 
 

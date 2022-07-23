@@ -5,7 +5,7 @@
 ## Allgemeines
 
 * [Checkliste - Online-Workshop](allgemeines/checkliste-online-workshop.md)
-* [Lizenzen &Weitergabe](allgemeines/lizenzen-and-weitergabe.md)
+* [Lizenzen \&Weitergabe](allgemeines/lizenzen-and-weitergabe.md)
 * [Medienzeit: Wie lange ist gut?](allgemeines/medienzeit-wie-lange-ist-gut.md)
 
 ## Minecraft
@@ -19,6 +19,8 @@
   * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)
   * [Minecraft Shader](minecraft/allgemeines/minecraft-shader.md)
   * [Minecraft Versionen](minecraft/allgemeines/minecraft-versionen.md)
+* [Probleme & Lösungen](minecraft/probleme-and-loesungen.md)
+* [Offline spielen (Einzelspieler)](minecraft/offline-spielen-einzelspieler.md)
 * [🐢TurtleCity](minecraft/turtlecity.md)
 * [Erste Schritte mit Robokröti](minecraft/erste-schritte-mit-robokroeti.md)
 * [Schleifen](minecraft/schleifen/README.md)
@@ -36,11 +38,11 @@
 ## MineTest
 
 * [Allgemeines](minetest/allgemeines/README.md)
-  * [Installation \(Mac\)](minetest/allgemeines/installation-minetest-mac.md)
-  * [Installation \(Windows\)](minetest/allgemeines/installation-von-minetest.md)
+  * [Installation (Mac)](minetest/allgemeines/installation-minetest-mac.md)
+  * [Installation (Windows)](minetest/allgemeines/installation-von-minetest.md)
   * [Minetest - Grundsätzliche Bedienung](minetest/allgemeines/minetest-grundsaetzliche-bedienung.md)
 
----
+***
 
 * [WorkAdventure](workadventure.md)
 
@@ -61,3 +63,8 @@
   * [Projektvorschlag - Baue einen Roboter, der dein Leben besser macht](lego/lego-mindstorms-ev3/projektvorschlag-baue-einen-roboter-der-dein-leben-besser-macht.md)
   * [Interessante Seiten und Projekt](lego/lego-mindstorms-ev3/interessante-seiten-und-projekt.md)
 
+## Minecraft-Mods Programmieren
+
+* [Übersicht](minecraft-mods-programmieren/uebersicht.md)
+* [Installation mCreator](minecraft-mods-programmieren/installation-mcreator.md)
+* [Erste Mod: ein eigener Block](minecraft-mods-programmieren/erste-mod-ein-eigener-block.md)
