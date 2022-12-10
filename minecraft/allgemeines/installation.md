@@ -11,10 +11,10 @@ description: >-
 Zum Spielen benötigst Du eine Lizenz für die "Minecraft Java Edition".
 
 {% hint style="info" %}
-Du benötigst eine Lizenz, um am Kurs teilnehmen zu können und auch danach selbst weitermachen zu können. kannst Du eine eigene Lizenz für 24€ hier kaufen: [**Minecraft-Java**](https://www.minecraft.net/de-de/store/minecraft-java-edition)
+Du benötigst eine Lizenz, um mit dem Buch in Minecraft programmieren zu können. Du kannst eine eigene Lizenz für ca. 29€ hier kaufen: [**Minecraft-Java**](https://www.minecraft.net/de-de/store/minecraft-java-edition)
 {% endhint %}
 
-Wenn deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
+Wenn Deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
 
 {% hint style="warning" %}
 Tablets, Playstation oder ähnliche Geräte gehen leider nicht! Diese Versionen sind untereinander leider nicht kompatibel
