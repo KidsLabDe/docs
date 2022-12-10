@@ -14,11 +14,11 @@ Zum Spielen benötigst Du eine Lizenz für die "Minecraft Java Edition".
 Du benötigst eine Lizenz, um mit dem Buch in Minecraft programmieren zu können. Du kannst eine eigene Lizenz für ca. 29€ hier kaufen: [**Minecraft-Java**](https://www.minecraft.net/de-de/store/minecraft-java-edition)
 {% endhint %}
 
-Wenn Deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
-
 {% hint style="warning" %}
 Tablets, Playstation oder ähnliche Geräte gehen leider nicht! Diese Versionen sind untereinander leider nicht kompatibel
 {% endhint %}
+
+Wenn Deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dieses Konto ein "Kinderkonto" ist, gibt es noch ein paar zusätzliche Sachen zu beachten - mehr findest du auf dieser Seite: [Minecraft und Microsoft Konten](minecraft-und-microsoft-konten.md)
 
 ## AtLauncher Installation
 
