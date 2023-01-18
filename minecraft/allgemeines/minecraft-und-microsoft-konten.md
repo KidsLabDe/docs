@@ -8,9 +8,15 @@ description: >-
 
 Wenn es sich bei dem Konto, auf das die Minecraft-Lizenz um ein sog. "Kinderkonto" handelt, muss man noch einige Schritte durchführen, um das gemeinsame Spielen zu ermöglichen.
 
-Zuerst als Eltern anmelden und die Familienverwaltung aufrufen: [https://account.microsoft.com/family/](https://account.microsoft.com/family/)
+Zuerst als Eltern anmelden und die Familienverwaltung aufrufen: [https://account.microsoft.com](https://account.microsoft.com/family/)
 
-![](<../../.gitbook/assets/Microsoft Family Safety 2021-03-11 09-56-30(1).png>)
+![](../../.gitbook/assets/MicrosoftElternKonto2.png)
+
+Wähle dann dein Kind aus - das Konto, dass du ändern möchtest.
+
+In dem Konto, klicke auf "XBox Online Spiele"
+
+![](<../../.gitbook/assets/Microsoft Kindereinstellungen.png>)
 
 Da müssen dann diese Einstellungen unter **XBOX One** geändert werden:
 
