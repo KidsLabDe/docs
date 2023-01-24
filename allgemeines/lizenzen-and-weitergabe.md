@@ -1,4 +1,4 @@
-# Lizenzen &Weitergabe
+# Lizenzen & Weitergabe
 
 Alle Inhalte auf dieser Seite sind unter der "Creative Commons" Lizenz veröffentlicht:
 
