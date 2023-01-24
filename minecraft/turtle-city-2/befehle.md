@@ -5,12 +5,12 @@
 ```mcfunction
 # Damit die Commandblocks an der clock nicht den chat zu spamen:
 ## alle befehle (z.b. blöcke von clock plaziert)
-/gamerule commandBlockOutput false
+gamerule commandBlockOutput false
 ## "Dein Spielmodus wurde geändert" nachricht
-/gamerule sendCommandFeedback false
+gamerule sendCommandFeedback false
 
 # damit man inventar nicht verliert 
-/gamerule keepInventory true
+gamerule keepInventory true
 ```
 ### clock
 ```mcfunction
@@ -23,7 +23,7 @@ fill ~-20 ~1 ~ ~ ~1 ~ air
 ## admin status für ausnahmen
 ### init
 ```mcfunction
-/scoreboard objectives add isadmin dummy
+scoreboard objectives add isadmin dummy
 ```
 ### clock
 ```mcfunction
@@ -35,7 +35,7 @@ scoreboard players add @a isadmin 0
 - teleport to spawn
 ### init
 ```mcfunction
-/scoreboard objectives add joined stat.leaveGame
+scoreboard objectives add joined stat.leaveGame
 ```
 ### clock
 ```mcfunction
@@ -47,7 +47,7 @@ scoreboard players set @a joined 0
 - give turtle remote
 ### init
 ```mcfunction
-/scoreboard objectives add died stat.deaths
+scoreboard objectives add died stat.deaths
 ```
 ```mcfunction
 give @a[score_died_min=1] computercraftedu:turtleRemote
@@ -63,9 +63,9 @@ schwarz gibt auch noch resistenz
 ### clock
 ```mcfunction
 # speed
-/execute @a ~ ~ ~ detect ~ ~-1 ~ minecraft:stained_glass 15 effect @p speed 1 110 true
+execute @a ~ ~ ~ detect ~ ~-1 ~ minecraft:stained_glass 15 effect @p speed 1 110 true
 # kein schaden beim fallen
-/execute @a ~ ~ ~ detect ~ ~-1 ~ minecraft:stained_glass 15 effect @p[r=1] resistance 4 100 true
+execute @a ~ ~ ~ detect ~ ~-1 ~ minecraft:stained_glass 15 effect @p[r=1] resistance 4 100 true
 # halbe highways
 ## grau
 execute @a ~ ~ ~ detect ~ ~-1 ~ minecraft:stained_glass 7 effect @p speed 1 60 true
@@ -75,9 +75,9 @@ execute @a ~ ~ ~ detect ~ ~-1 ~ minecraft:stained_glass 8 effect @p speed 1 10 t
 
 # aufzug
 ## normal
-/execute @a ~ ~ ~ detect ~ ~2 ~ minecraft:stained_glass 0 tp @p ~ ~1 ~
+execute @a ~ ~ ~ detect ~ ~2 ~ minecraft:stained_glass 0 tp @p ~ ~1 ~
 ## sonderfall ganz oben
-/execute @a ~ ~ ~ detect ~ ~1 ~ minecraft:stained_glass 0 execute @p ~ ~ ~ detect ~ ~2 ~ air 0 tp @p ~ ~1 ~
+execute @a ~ ~ ~ detect ~ ~1 ~ minecraft:stained_glass 0 execute @p ~ ~ ~ detect ~ ~2 ~ air 0 tp @p ~ ~1 ~
 ```
 
 ## gamemode wechslen
@@ -98,7 +98,7 @@ execute @a[score_isadmin=0] ~ ~ ~ detect ~ 0 ~ bedrock 0 gamemode survival @p
 - isadmin scoreboard erstellen in general
 
 ```mcfunction
-/scoreboard objectives add use_carrotstick stat.useItem.minecraft.carrot_on_a_stick
+scoreboard objectives add use_carrotstick stat.useItem.minecraft.carrot_on_a_stick
 ```
 
 ### clock
