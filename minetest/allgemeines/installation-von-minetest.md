@@ -9,20 +9,20 @@ Minetest ist **kostenlos** und schnell installiert.
 * Klicke auf diesen Link zum runterladen: [Minetest Download](https://github.com/minetest/minetest/releases/download/5.4.1/minetest-5.4.1-win64.zip)
 * Die Datei wird unter "Downloads" gespeichert.
 * Klicke mit der rechten Maustaste auf die Datei - wähle "Alle extrahieren..."
-  * ![](../../.gitbook/assets/Minetest-Install-1.png)
+  * ![](../../.gitbook/assets/minetest-install-1.png)
 * Nach mal auf "Extrahieren" klicken
-  * ![](../../.gitbook/assets/Minetest-Install-2.png)
+  * ![](../../.gitbook/assets/minetest-install-2.png)
 * Gehe in der Ordner:
   * Dowloads...
   * Mintest.5.4.1.win64
   *
     * "../minetest.../bin/" wechseln
 * Rechts auf "minetest" klicken -> Senden an -> Desktop (Verknüpfung erstellen)
-  * ![](../../.gitbook/assets/Minetest-Install-3.png)
+  * ![](../../.gitbook/assets/minetest-install-3.png)
 
 Damit landet das Minetest-Icon auf dem Desktop. Mit Doppel-Klick starten und es geht schon los:
 
-![](../../.gitbook/assets/Minetest-Install-4.png)
+![](../../.gitbook/assets/minetest-install-4.png)
 
 Adresse unseres Servers:
 

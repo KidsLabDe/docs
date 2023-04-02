@@ -10,7 +10,7 @@ Ich habe für Dich eine extra Version des[ Kidslab-Modpacks](installation.md) vo
 
 Die Installation ist super einfach, wenn du die AtLauncher bereits installiert hast. Starte den AtLauncher und gehe auf den Bereich "Instances":
 
-![](<../../.gitbook/assets/Atlauncher - Shader.png>)
+![](../../.gitbook/assets/atlauncher-shader.png)
 
 1. Klicke auf "**Import**" (links oben)
 2. Gib folgende URL ein: [`https://kidslab.de/modpack-shader`](https://kidslab.de/modpack-shader)\`\`
@@ -18,4 +18,4 @@ Die Installation ist super einfach, wenn du die AtLauncher bereits installiert h
 
 Starten und losgeht :-)
 
-![](<../../.gitbook/assets/AtLauncher - Shader Demo.png>)
+![](../../.gitbook/assets/atlauncher-shader-demo.png)

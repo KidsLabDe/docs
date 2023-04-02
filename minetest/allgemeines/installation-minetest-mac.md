@@ -12,13 +12,13 @@ Nachdem der Download abgeschlossen wurde, liegt die Datei im "Downloads" Ordner.
 
 Mit einem Doppelklick oder Rechtsklick und "Öffnen" wird das Programm entpackt:
 
-![Entpacken mit Doppel-Klick oder Rechts-Klick und Öffnen](<../../.gitbook/assets/Minetest Mac 1.png>)
+![Entpacken mit Doppel-Klick oder Rechts-Klick und Öffnen](../../.gitbook/assets/minetest-mac-1.png)
 
 ### Erster Start
 
 Zum Starten des Programms muss man einmalig mit einem Rechts-Klick und "Öffnen" das Programm starten:
 
-![](<../../.gitbook/assets/Minetest Mac 2.png>)
+![](../../.gitbook/assets/minetest-mac-2.png)
 
 {% hint style="warning" %}
 Ganz wichtig: RECHTS KLICKEN! Keine rechte Maustaste: CTRL-Taste halten und klicken. Nur dann kann man Minetest öffnen!
@@ -26,7 +26,7 @@ Ganz wichtig: RECHTS KLICKEN! Keine rechte Maustaste: CTRL-Taste halten und klic
 
 Dann erhält man diese Warnung - und muss bestätigen, dass man das Programm öffnen will:
 
-![](<../../.gitbook/assets/Minetest Mac 3.png>)
+![](../../.gitbook/assets/minetest-mac-3.png)
 
 Nach dem ersten Start kann das Programm einfach mit einem Doppel-Klick geöffnet werden.&#x20;
 

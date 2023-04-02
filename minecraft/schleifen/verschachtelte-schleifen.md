@@ -2,21 +2,21 @@
 
 Als Beispiel möchte ich mit Dir mal ein Haus mit Robokröti bauen. Fangen wir ganz einfach mit einer Basis-Wand an:
 
-![Einmal hochfliegen und 6 Blöcke setzen](<../../.gitbook/assets/Turtle - Haus Level Level 1.png>)
+![Einmal hochfliegen und 6 Blöcke setzen](../../.gitbook/assets/turtle-haus-level-level-1.png)
 
-![Die erste Mauer steht!](<../../.gitbook/assets/Turtle - Haus Level 1 Ergebnis.png>)
+![Die erste Mauer steht!](../../.gitbook/assets/turtle-haus-level-1-ergebnis.png)
 
 Unser Haus soll ja 4 Wände haben. Wie macht man das nun am besten? Man könnte die Programmierung oben einfach 4 mal wiederholen - aber das ist natürlich langweilig :-)
 
-![](<../../.gitbook/assets/Turtle - Haus Level 2.png>)
+![](../../.gitbook/assets/turtle-haus-level-2.png)
 
-![](<../../.gitbook/assets/Turtle - Haus Level 2 Ergebnis.png>)
+![](../../.gitbook/assets/turtle-haus-level-2-ergebnis.png)
 
 Erste Ebene unseres Hauses ist fertig! Aber das haus soll ja höher werden. Jetzt machen wir um unsere beiden bestehenden Schleifen außen rum noch eine weitere Schleife, die das so oft wiederholt, wie hoch das Haus sein soll. In meinem Fall will ich mein Haus 10 Blöcke hoch haben:
 
-![](<../../.gitbook/assets/Turtle - Haus Level 3.png>)
+![](../../.gitbook/assets/turtle-haus-level-3.png)
 
-![](<../../.gitbook/assets/Turtle - Haus Level 3 Ergebnis.png>)
+![](../../.gitbook/assets/turtle-haus-level-3-ergebnis.png)
 
 {% hint style="success" %}
 Unser Haus steht!

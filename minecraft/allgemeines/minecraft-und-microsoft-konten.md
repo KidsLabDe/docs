@@ -20,16 +20,16 @@ In dem Konto, klicke auf "XBox Online Spiele"
 
 Da müssen dann diese Einstellungen unter **XBOX One** geändert werden:
 
-![](<../../.gitbook/assets/httpsaccount.xbox.comde-desettingsgamertag=KidsLab9\&activetab=mainprivilegetab 2021-03-11 10-21-48(1).png>)
+![](../../.gitbook/assets/httpsaccount.xbox.comde-desettingsgamertag-kidslab9-and-activetab-mainprivilegetab-2021-03-11-10-21-48-1-.png)
 
 Unter **DatenSchutz** sind es diese Einstellung:
 
-![](<../../.gitbook/assets/httpsaccount.xbox.comde-desettingsgamertag=KidsLab9\&activetab=mainprivacytab 2021-03-11 10-23-53(1).png>)
+![](../../.gitbook/assets/httpsaccount.xbox.comde-desettingsgamertag-kidslab9-and-activetab-mainprivacytab-2021-03-11-10-23-53-1-.png)
 
-![](<../../.gitbook/assets/httpsaccount.xbox.comde-desettingsgamertag=KidsLab9\&activetab=mainprivacytab 2021-03-11 10-24-53(1).png>)
+![](../../.gitbook/assets/httpsaccount.xbox.comde-desettingsgamertag-kidslab9-and-activetab-mainprivacytab-2021-03-11-10-24-53-1-.png)
 
 {% hint style="danger" %}
 Ganz wichtig: neu anmelden! Das ganze muss aber noch durch eine Neu-Anmeldung im AtLauncher neu geladen werden
 {% endhint %}
 
-![](<../../.gitbook/assets/ATLauncher 2021-03-11 10-29-12(1).png>)
+![](../../.gitbook/assets/atlauncher-2021-03-11-10-29-12-1-.png)

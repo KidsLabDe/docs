@@ -14,7 +14,7 @@ Die Installation geht mit diesen einfachen Schritten:
 2. Gib einen Suchbegriff ein und klicke auf "Search"
 3. Klicke auf "New Instance"
 
-![](<../../.gitbook/assets/AtLauncher ModPacks.png>)
+![](../../.gitbook/assets/atlauncher-modpacks.png)
 
 Den ganzen Rest, Installieren, Entpacken etc. übernimmt der AtLauncher für Dich!
 
@@ -22,4 +22,4 @@ Den ganzen Rest, Installieren, Entpacken etc. übernimmt der AtLauncher für Dic
 
 ### PixelMon - Pokemon in Minecraft
 
-![](<../../.gitbook/assets/ATLauncher PixelMon.png>)
+![](../../.gitbook/assets/atlauncher-pixelmon.png)

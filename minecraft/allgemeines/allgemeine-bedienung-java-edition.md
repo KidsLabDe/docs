@@ -6,4 +6,4 @@ description: >-
 
 # Allgemeine Bedienung / Java Edition
 
-![](<../../.gitbook/assets/Minecraft Allgemeine Bedienung.png>)
+![](../../.gitbook/assets/minecraft-allgemeine-bedienung.png)

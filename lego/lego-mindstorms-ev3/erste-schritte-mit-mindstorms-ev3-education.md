@@ -48,8 +48,8 @@ Wenn Du die Software gestartet hast, führ Dich die Software Schritt für Schrit
 
 Ich Empfehle, mit den Projekten aus "Roboter-Trainer" im Bereich "Lerneinheiten" zu starten:
 
-![](<../../.gitbook/assets/21-05-01 12-17-11 1326.png>)
+![](../../.gitbook/assets/21-05-01-12-17-11-1326.png)
 
-![](<../../.gitbook/assets/21-05-01 12-18-08 1327.png>)
+![](../../.gitbook/assets/21-05-01-12-18-08-1327.png)
 
 Diese einzelnen Aufgaben führen Schritt für Schritt an die Möglichkeiten heran.

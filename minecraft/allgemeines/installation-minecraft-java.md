@@ -16,11 +16,11 @@ Lade den Installer für die Minecraft Java Version hier herunter:
 
 {% embed url="https://www.minecraft.net/de-de/download" %}
 
-![](<../../.gitbook/assets/Java 1 - Download.png>)
+![](../../.gitbook/assets/java-1-download.png)
 
 Nach der Installation musst Du Dich erst mal anmelden:
 
-![](<../../.gitbook/assets/Java 2 - Anmeldung.png>)
+![](../../.gitbook/assets/java-2-anmeldung.png)
 
 {% hint style="info" %}
 Mehr über den Unterschied zwischen Mohjang und Microsoft-Konten findest Du hier: [Minecraft Konten](minecraft-und-microsoft-konten.md)
@@ -32,7 +32,7 @@ Du hast keine Java-Lizenz? Gerne stelle ich eine Version für die Dauer des Kurs
 
 Nach der Anmeldung und dem Start auf **"Spielen"** klicken:
 
-![](<../../.gitbook/assets/Java 4.png>)
+![](../../.gitbook/assets/java-4.png)
 
 ## Server Anlegen und beitreten
 
@@ -57,10 +57,10 @@ Du siehst jetzt eine leere Welt? **Geschafft**!
 **Du kannst nichts abbauen oder machen**? Das ist richtig so - diese Welt ist nur zum testen da!
 {% endhint %}
 
-![](<../../.gitbook/assets/Java 5 - Mehrspieler.png>)
+![](../../.gitbook/assets/java-5-mehrspieler.png)
 
-![](<../../.gitbook/assets/Java 6 - Warnung.png>)
+![](../../.gitbook/assets/java-6-warnung.png)
 
-![](<../../.gitbook/assets/Java 9 - Beitreten.png>)
+![](../../.gitbook/assets/java-9-beitreten.png)
 
-![](<../../.gitbook/assets/Java 8 - Server Anlegen.png>)
+![](../../.gitbook/assets/java-8-server-anlegen.png)

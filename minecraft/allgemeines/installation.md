@@ -64,7 +64,7 @@ Video-Anleitung für die Installation unter MacOS
 
 Wenn alles installiert und eingerichtet ist, starte bitte den AtLauncher und wechsle auf den Reiter "**Instances**" (rechts):
 
-![AtLauncher mit installiertem ModPack](../../.gitbook/assets/AtLauncher.png)
+![AtLauncher mit installiertem ModPack](../../.gitbook/assets/atlauncher.png)
 
 Klicke jetzt auf den Knopf "**Play**" beim KidsLab-Modpack.
 

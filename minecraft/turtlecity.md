@@ -24,15 +24,15 @@ Am Eingang erwartet dich "Verleihnix" - der versorgt Dich erst mal mit etwas Gel
 
 Mit dem Geld kannst Du dann bei den beiden Ladeninhabern nach Herzenslust einkaufen:&#x20;
 
-![](<../.gitbook/assets/Turtle City - Laden.png>)
+![](../.gitbook/assets/turtle-city-laden.png)
 
 KrötenwarenJoe gibt Dir alles was mit Kröten und Fernbedienungen etc. zu tun hat!
 
-![](<../.gitbook/assets/Turtle City - Laden Turtles.png>)
+![](../.gitbook/assets/turtle-city-laden-turtles.png)
 
 Es gibt 2 verschiedene Kröten:
 
-![Damit kannst du noch Herzenslust rumbuddeln. Lässt sich auf Gras setzen.](<../.gitbook/assets/Turtle City - Minerkröte.png>)
+![Damit kannst du noch Herzenslust rumbuddeln. Lässt sich auf Gras setzen.](../.gitbook/assets/turtle-city-minerkroete.png)
 
 Es gibt auch eine spezielle Hacke - mit der kannst du Kröten und die Blöcke, die für das Bauen in der Stadt gedacht sind, abbauen.
 
@@ -42,7 +42,7 @@ Abgebaute Schildkröten können nicht wieder gesetzt und verwendet werden - hol 
 
 ## Bauplätze
 
-![Auf diesem speziellen Block kannst Du die Stadtkröte setzen](<../.gitbook/assets/Turtle City - Bauplatz.png>)
+![Auf diesem speziellen Block kannst Du die Stadtkröte setzen](../.gitbook/assets/turtle-city-bauplatz.png)
 
 Es gibt in der Stadt sehr viele Bauplätze. Such Dir einen aus, stell ein Schild auf - damit jeder weiß, wer der Eigentümer ist. Auf dem Block, mit dem blauen Kreis, kannst du Deine Kröte platzieren und dann benutzen, programmieren usw.
 
