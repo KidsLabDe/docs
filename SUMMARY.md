@@ -5,7 +5,7 @@
 ## Allgemeines
 
 * [Checkliste - Online-Workshop](allgemeines/checkliste-online-workshop.md)
-* [Lizenzen \&Weitergabe](allgemeines/lizenzen-and-weitergabe.md)
+* [Lizenzen & Weitergabe](allgemeines/lizenzen-and-weitergabe.md)
 * [Medienzeit: Wie lange ist gut?](allgemeines/medienzeit-wie-lange-ist-gut.md)
 
 ## Minecraft
@@ -58,11 +58,8 @@
 ## Lego
 
 * [Lego Robotic Workshop](lego/lego-robotic-workshop.md)
-* [Lego Mindstorms EV3](lego/lego-mindstorms-ev3/README.md)
-  * [Tipps & Tricks für Workshops](lego/lego-mindstorms-ev3/tipps-and-tricks-fuer-workshops.md)
-  * [Erste Schritte mit Mindstorms EV3 Education](lego/lego-mindstorms-ev3/erste-schritte-mit-mindstorms-ev3-education.md)
-  * [Projektvorschlag - Baue einen Roboter, der dein Leben besser macht](lego/lego-mindstorms-ev3/projektvorschlag-baue-einen-roboter-der-dein-leben-besser-macht.md)
-  * [Interessante Seiten und Projekt](lego/lego-mindstorms-ev3/interessante-seiten-und-projekt.md)
+* [Tipps & Tricks für Workshops](lego/tipps-and-tricks-fuer-workshops.md)
+* [Projektvorschlag - Baue einen Roboter, der dein Leben besser macht](lego/projektvorschlag-baue-einen-roboter-der-dein-leben-besser-macht.md)
 
 ## Minecraft-Mods Programmieren
 
@@ -78,3 +75,6 @@
 ## 🖨 TinkerCAD & 3D-Druck <a href="#tinkercad" id="tinkercad"></a>
 
 * [🐲 3D-Team-Drachen](tinkercad/3d-team-drachen.md)
+* [Lego Mindstorms EV3](tinkercad/lego-mindstorms-ev3/README.md)
+  * [Erste Schritte mit Mindstorms EV3 Education](tinkercad/lego-mindstorms-ev3/erste-schritte-mit-mindstorms-ev3-education.md)
+  * [Interessante Seiten und Projekt](tinkercad/lego-mindstorms-ev3/interessante-seiten-und-projekt.md)
