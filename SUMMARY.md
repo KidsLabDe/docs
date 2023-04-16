@@ -57,6 +57,7 @@
 
 ## Lego
 
+* [Lego Robotic Workshop](lego/lego-robotic-workshop.md)
 * [Lego Mindstorms EV3](lego/lego-mindstorms-ev3/README.md)
   * [Tipps & Tricks für Workshops](lego/lego-mindstorms-ev3/tipps-and-tricks-fuer-workshops.md)
   * [Erste Schritte mit Mindstorms EV3 Education](lego/lego-mindstorms-ev3/erste-schritte-mit-mindstorms-ev3-education.md)
