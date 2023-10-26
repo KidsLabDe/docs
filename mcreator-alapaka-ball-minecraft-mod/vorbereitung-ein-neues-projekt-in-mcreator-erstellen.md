@@ -18,16 +18,19 @@ Klicke dann auf "Neue Arbeitsumgebung erstellen". Es öffnet sich eine Webseite,
 
 Der Download und der erste Build können je nach Internetverbindung und Computer etwas Zeit in Anspruch nehmen. Dieser Schritt nimmt jedoch viele Aufgaben ab, die wir sonst manuell erledigen müssten. Also, geduldig warten :)
 
-{
+{% hint style="warning" %}
+**Dauert es zu lange?**
 
-}\
-Manchmal sieht es so aus, als ob der Vorgang ewig dauert, obwohl er bereits abgeschlossen ist. Wenn du eine Erfolgsmeldung in der Konsole siehst und nichts mehr passiert, kannst du das Popup-Fenster schließen, und alles sollte bereits installiert sein. {}
+Manchmal sieht es so aus, als ob der Vorgang ewig dauert, obwohl er bereits abgeschlossen ist. Wenn du eine Erfolgsmeldung in der Konsole siehst und nichts mehr passiert, kannst du das Popup-Fenster schließen, und alles sollte bereits installiert sein.
+{% endhint %}
 
 ## Übersicht über die Entwicklungsumgebung (IDE)
 
-{
+{% hint style="info" %}
+**IDE. . . was ist das?**
 
-} [IDE](https://de.wikipedia.org/wiki/Integrierte\_Entwicklungsumgebung) steht für _Integrierte Entwicklungsumgebung_ und ist ein Programm, das alle erforderlichen Tools für das Programmieren in einer einzigen Umgebung zusammenführt. Das ist unsere Arbeitsumgebung für dieses Tutorial. {}
+[IDE](https://de.wikipedia.org/wiki/Integrierte\_Entwicklungsumgebung) steht für _Integrierte Entwicklungsumgebung_ und ist ein Programm, das alle erforderlichen Tools für das Programmieren in einer einzigen Umgebung zusammenführt. Das ist unsere Arbeitsumgebung für dieses Tutorial.
+{% endhint %}
 
 Hier siehst du die Startseite der IDE und alle wichtigen Elemente:
 
@@ -52,8 +55,8 @@ Wenn du in Minecraft längere Bauarbeiten durchführst, können einige Einstellu
 * Wetter auf klaren Himmel setzen und Wetter so belassen:\
   `/weather clear` & `/gamerule doWeatherCycle false`
 
-{
+{% hint style="info" %}
+**Minecraft Wiki**
 
-}\
-Es gibt noch viele weitere nützliche `gamerule`s. Hier findest du eine Liste: [Minecraft Wiki Gamerules](https://minecraft.fandom.com/wiki/Game\_rule)\
-{}
+Es gibt noch viele weitere nützliche `gamerule`s. Hier findest du eine Liste: [Minecraft Wiki Gamerules](https://minecraft.fandom.com/wiki/Game\_rule)
+{% endhint %}

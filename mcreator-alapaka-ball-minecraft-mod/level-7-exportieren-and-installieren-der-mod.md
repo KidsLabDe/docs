@@ -25,9 +25,8 @@ Die einfachste Möglichkeit, Mods zu installieren, ist die Verwendung eines erwe
 4. Klicke auf "**Edit Mods**".
 5. Klicke auf "**Add Mod**" und wähle die zuvor erstellte JAR-Datei aus.
 
-{
-
-}
+{% hint style="info" %}
+**Mods & Server**
 
 Möchtest du gemeinsam auf einem Server spielen? Die einfachste Möglichkeit ist, das Spiel in Minecraft von einem Rechner aus freizugeben:
 
@@ -39,7 +38,5 @@ _**Minecraft über LAN-Server spielen**_
 4. Passe die Einstellungen an und klicke auf "OK".
 
 Wenn du auf einem öffentlichen Server im Internet gemeinsam spielen möchtest, muss dieser ebenfalls Forge verwenden und die Mod installiert haben.
+{% endhint %}
 
-{
-
-}

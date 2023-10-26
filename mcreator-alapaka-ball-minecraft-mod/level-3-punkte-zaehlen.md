@@ -2,9 +2,8 @@
 
 So, wir haben Tore, einen Ball - aber aktuell zählen wir die Tore noch nicht. Das packen wir in diesem Level an!
 
-{
-
-}
+{% hint style="info" %}
+**Variablen - eine kurze Einführung**
 
 Was genau ist eine Variable? Eine Variable hört sich an wie „variabel“, also veränderbar. Am besten kannst du dir eine Variable wie einen dieser Klebezettel vorstellen. Die sind super, um sich Sachen zu merken!
 
@@ -22,10 +21,7 @@ Und noch viele andere...
 **Achtung: Gute Namen sind gute Helfer**
 
 Variablennamen können aus einem einzelnen Buchstaben oder aus ganzen Wörtern bestehen. Wähle also weise: Gib den Variablen Namen, die andere (und auch du nach 2 Wochen) noch verstehen. Dann findest du dich viel leichter im eigenen Programm zurecht.
-
-{
-
-}
+{% endhint %}
 
 ## Punkte merken
 
@@ -87,21 +83,23 @@ Die Prozedur für den Zusammenstoß mit einer Entity ist länger und sieht so au
    * Achte darauf, dass die Minecraft-Befehle `kill @e[...]`, `tp @e[...] ~ -500 ~` und MCreator `Lösche` nicht funktionieren.
 10. **Vergiss nicht zu speichern ;)**
 
-{
+{% hint style="info" %}
+**Blau bekommt einen Punkt?**
 
-} Vielleicht wunderst du dich, warum wir dem blauen Team einen Punkt geben, wenn ein Ball ins blaue Tor geht - müsste es nicht andersherum sein? Aber sobald mehr als zwei Teams mitspielen, würde es nicht mehr funktionieren. Mit 12 Punkten hat man also verloren. {}
+Vielleicht wunderst du dich, warum wir dem blauen Team einen Punkt geben, wenn ein Ball ins blaue Tor geht - müsste es nicht andersherum sein? Aber sobald mehr als zwei Teams mitspielen, würde es nicht mehr funktionieren. Mit 12 Punkten hat man also verloren.
+{% endhint %}
 
-{
+{% hint style="info" %}
+**Alternative: Punkte abziehen**
 
-}\
-Wenn du möchtest, kannst du am Anfang auch 12 Punkte vergeben und mit jedem Tor im blauen Torblock 1 Punkt von Blau abziehen. Experimentiere gerne mit den Zahlen rum ;)\
-{}
+Wenn du möchtest, kannst du am Anfang auch 12 Punkte vergeben und mit jedem Tor im blauen Torblock 1 Punkt von Blau abziehen. Experimentiere gerne mit den Zahlen rum ;)
+{% endhint %}
 
-{
+{% hint style="success" %}
+**Geschafft! Tore zählen - ich habe fertig!**
 
-}\
-Jetzt kannst du im Spiel testen. Wenn ein Ball in einen blauen Torblock fliegt, sollte ein Ton erklingen, die Punktzahl in der Bossbar erhöht werden, der Ball verschwinden und du erhältst ein neues Spawn-Ei.\
-{}
+Jetzt kannst du im Spiel testen. Wenn ein Ball in einen blauen Torblock fliegt, sollte ein Ton erklingen, die Punktzahl in der Bossbar erhöht werden, der Ball verschwinden und du erhältst ein neues Spawn-Ei.
+{% endhint %}
 
 ### Jetzt nochmal für Orange
 
@@ -119,15 +117,13 @@ Jetzt musst du natürlich alle Stellen, an denen "Blau" steht, durch "Orange" er
 
 ![... und der Rechtsklick-Code für Orange.](<../.gitbook/assets/code rechtsklick orange.png>)
 
-Vergiss nicht, auch den Auslöser anzupassen!
+Vergiss nicht, auch den Auslöser anzupassen!\
 
-{
 
-}\
+{% hint style="info" %}
+**Funktioniert es?**
+
 Teste alles noch einmal ;)
 
 Wenn etwas nicht funktioniert, gehe die Schritte oben Schritt für Schritt durch, um sicherzustellen, dass nichts vergessen wurde.
-
-{
-
-}
+{% endhint %}

@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Einführung in MCreator & unser Projekt
 
 ## Unser Spiel: Alpaka-Ball
@@ -11,6 +15,8 @@ Wir haben uns für unsere Spielidee an dem Sport [Quidditch (aus Harry Potter)](
 Wenn du gerne Minecraft spielst, ist dir bestimmt schon aufgefallen, dass es verschiedene Versionen gibt: Es gibt eine Java- und eine Bedrock-Version. Die Java-Version ist die ursprüngliche Minecraft-Version, die "Notch", der Erfinder von Minecraft, 2009 programmiert hat.
 
 {% hint style="info" %}
+**Wusstest du schon...**
+
 Notch hat die erste Version in nur wenigen Tagen programmiert: Nach nur 6 Tagen, am 16. Mai 2009, erblickte die erste wirkliche Minecraft-Version 0.0.9a das Licht der Welt!
 {% endhint %}
 
@@ -28,6 +34,8 @@ So hat die Community das Spiel für andere Spieler immer weiterentwickelt und di
 
 Die Mods in Minecraft Java sind jeweils eine sogenannte JAR-Datei (JAR, englisch für "Krug" oder Java ARchive). Wenn sie an der richtigen Stelle liegen, ist dein Minecraft gemoddet!
 
-{
+{% hint style="info" %}
+**Lust mal eine Mod zu installieren?**
 
-} Wir würden dir dazu den [ATLauncher](https://atlauncher.com) empfehlen – er macht es viel einfacher, mit den verschiedenen Minecraft-Versionen umzugehen und erleichtert die Installation von Mods. In diesem Video wirst du Schritt für Schritt durchgeführt – und danach kannst du es mal **richtig** krachen lassen :) [So installierst du deine erste Mod! (WorldEdit) – mit Knalleffekt :)](https://youtu.be/dGDRotz0VEA) {}
+Wir würden dir dazu den [ATLauncher](https://atlauncher.com) empfehlen – er macht es viel einfacher, mit den verschiedenen Minecraft-Versionen umzugehen und erleichtert die Installation von Mods. In diesem Video wirst du Schritt für Schritt durchgeführt – und danach kannst du es mal **richtig** krachen lassen :) [So installierst du deine erste Mod! (WorldEdit) – mit Knalleffekt :)](https://youtu.be/dGDRotz0VEA)
+{% endhint %}

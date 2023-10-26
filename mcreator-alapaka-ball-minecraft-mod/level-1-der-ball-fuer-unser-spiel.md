@@ -32,9 +32,11 @@ Nach dem Speichern dauert es eine Weile, bis MCreator die Mod daraus erstellt ha
 
 ![Starte Minecraft mit deiner Mod: der Play-Knopf](<../.gitbook/assets/ide start play dreieck.png>)
 
-{
+{% hint style="info" %}
+**Was passiert da im Hintergrund?**
 
-} Da passiert im Hintergrund eine Menge - unter **Konsole** kannst du dir anschauen, was MCreator alles tun muss, um die Mod zu kompilieren. {}
+Da passiert im Hintergrund eine Menge - unter **Konsole** kannst du dir anschauen, was MCreator alles tun muss, um die Mod zu kompilieren.&#x20;
+{% endhint %}
 
 Sobald Minecraft gestartet ist, erstelle eine Welt im [Kreativ-Modus](https://minecraft.fandom.com/de/wiki/Kreativmodus), um sofort auf alle Gegenstände zugreifen und den Ball am einfachsten testen zu können.
 
@@ -46,17 +48,15 @@ Das erstellte Spawn-Ei findest du im Kreativ-Inventar:
 2. Scrolle ganz nach unten.
 3. Voilà! :)
 
-{
+{% hint style="success" %}
+**Geschafft: Der Ball fliegt!**
 
-} Voilà! So sieht es bisher aus:
+Voilà! So sieht es bisher aus:
 
 * Der Ball fällt nicht mehr, sondern fliegt.
 * Der Ball bewegt sich nicht mehr von alleine.
 * Der Ball stirbt nicht mehr, wenn man ihn schlägt. :)
-
-{
-
-}
+{% endhint %}
 
 ## Verhalten anpassen
 
@@ -79,15 +79,13 @@ Um das Verhalten zu ändern, wechsle unten zum Verhaltens-Reiter. Jetzt kannst d
 
 }
 
-Das hast du bereits erreicht:
+{% hint style="success" %}
+**Ball fertig - yeah!**
 
-![Stand Level 1 - Bälle sind geschafft!](<../.gitbook/assets/ingame so siehts bis jetzt aus 1.png>)
+<img src="../.gitbook/assets/ingame so siehts bis jetzt aus 1.png" alt="Stand Level 1 - Bälle sind geschafft!" data-size="original">
 
 * Der Ball fällt nicht mehr, sondern fliegt.
 * Der Ball bewegt sich nicht mehr von alleine.
 * Der Ball stirbt nicht mehr.
 * Es macht bereits Spaß, den Ball mit Schwert und Bogen zu schubsen (die Verzauberungen "Schlag" oder "Rückstoß" helfen dabei ;D).
-
-{
-
-}
+{% endhint %}

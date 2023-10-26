@@ -21,9 +21,11 @@ Gib dem Block jetzt glasähnliche Eigenschaften:
 
 Wir haben verschiedene Möglichkeiten getestet und uns entschieden, den Block so zu konfigurieren, dass man durch ihn hindurchlaufen kann.
 
-{
+{% hint style="info" %}
+**Testen nicht vergessen!**
 
-} Beim Programmieren ist es immer gut, zwischendurch immer mal wieder zu testen und auszuprobieren. Jetzt ist ein guter Zeitpunkt: Drücke den grünen Play-Knopf (rechts oben) und teste das Ganze! {}
+Beim Programmieren ist es immer gut, zwischendurch immer mal wieder zu testen und auszuprobieren. Jetzt ist ein guter Zeitpunkt: Drücke den grünen Play-Knopf (rechts oben) und teste das Ganze!&#x20;
+{% endhint %}
 
 ## Anzeige des Spielstandes - Wie viele Tore wurden geschossen?
 
@@ -47,9 +49,9 @@ Dafür gibt es diese Befehle:
 
     `/bossbar set orange players @a`
 
-{
-
-} Öffne Minecraft (am einfachsten wieder über MCreator, grüner Knopf...) und starte eine Kreativ-Welt. Öffne mit `T` die Chat-Zeile. Gib die Befehle wie oben nacheinander in dieser Zeile ein und bestätige jeden mit Enter. Klappt es? Dann solltest du jetzt eine Boss-Bar sehen! {}
+{% hint style="info" %}
+Öffne Minecraft (am einfachsten wieder über MCreator, grüner Knopf...) und starte eine Kreativ-Welt. Öffne mit `T` die Chat-Zeile. Gib die Befehle wie oben nacheinander in dieser Zeile ein und bestätige jeden mit Enter. Klappt es? Dann solltest du jetzt eine Boss-Bar sehen!
+{% endhint %}
 
 ## Wie werden die Tore gezählt? Auslöser!
 
@@ -72,13 +74,15 @@ Vergiss nicht zu speichern, indem du rechts oben auf **Mod-Element speichern** k
 
 Gerne mal testen. Falls du es nochmal testen möchtest, kannst du die Bossbar mit `/bossbar remove orange` wieder entfernen vor dem neuen Test.
 
-{
+{% hint style="success" %}
+Geschafft!
 
-} Jetzt sollte es so aussehen, nachdem du einen orangenen Torblock gesetzt hast:
+Jetzt sollte es so aussehen, nachdem du einen orangenen Torblock gesetzt hast:
 
 ![Bossbar für Team Orange](<../.gitbook/assets/ingame bossbar orange.png>) {
 
-}
+
+{% endhint %}
 
 ## Was ist mit der gegnerischen Mannschaft?
 
@@ -102,6 +106,6 @@ Und in beiden Elementen musst du die IDs und farbrelevanten Eigenschaften anpass
 
 * Tausche den Code für die Farbe aus: _orange_ war hier die ID der Bossbar und _yellow_ war die Farbe. Beides kann zu _blue_ geändert werden.
 
-{
-
-} Wow - du hast schon eine Menge geschafft: Bälle gibt's, Tore - und sogar die Tor-Anzeige!  {}
+{% hint style="success" %}
+&#x20;Wow - du hast schon eine Menge geschafft: Bälle gibt's, Tore - und sogar die Tor-Anzeige! &#x20;
+{% endhint %}

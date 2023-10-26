@@ -11,17 +11,13 @@ Stell dir vor, du spielst Eishockey, Golf oder Tennis - ohne Schläger. Hört si
 
 Der neue Gegenstand braucht natürlich einen Namen - "Schlaeger" zum Beispiel.
 
-{
-
-}
+{% hint style="info" %}
+**Umlaute und Programmieren**
 
 Probier mal den Schläger auch so zu nennen mit Ä statt AE. Wenn du den Gegenstand angelegt hast, fällt dir vielleicht auf, dass er dann in MCreator "Schlager" heißt. Schlager? Komisch!
 
 Das liegt daran, das Computer an ganz vielen Stellen noch nicht mit Umlauten und erweiterten Zeichen wie Emoticons oder anderen Schriftarten umgehen können. Darum macht MCreator automatisch aus dem **Ä** ein **A**. Darum haben wir uns gleich für den Namen Schl**ae**ger entschieden.
-
-{
-
-}
+{% endhint %}
 
 ### Textur für den Schläger pixeln
 
@@ -57,22 +53,25 @@ Um den Rückschlag zu erstellen, "verzaubern" wir den Schläger einfach. Der Aus
 2. Dazu verneinen wir die Antwort auf die Frage _Ist Gegebener Gegenstandsstapel verzaubert_. Das bedeutet, mit dem Befehl `nicht` drehen wir das Ergebnis von `ist ... verzaubert` um und erhalten `wahr`, wenn er nicht verzaubert ist.
 3. Füge dann die Verzauberung `KNOCKBACK` (auf Deutsch "Rückstoß") mit dem `Level *3*` hinzu.
 
-{
-
-}
+{% hint style="info" %}
+**Ausprobieren!**
 
 Probiere es gleich aus! Klappt es? Dann müsste sich der Gegenstand sofort verzaubern, wenn du ihn in die Hand nimmst. Das siehst du im Spiel - der Schläger auf Slot 1 ist verzaubert (blau...), der auf Slot 2 nicht.
 
-![1 ist in der Hand - und verzaubert!](<../.gitbook/assets/ingame schlaeger.png>)
 
-{
 
-}
 
-{
 
-} Man kann auch mit einem Bogen (eventuell mit Schlag verzaubert) sehr gut spielen, wenn der Ball weiter weg ist.
+<img src="../.gitbook/assets/ingame schlaeger.png" alt="1 ist in der Hand - und verzaubert!" data-size="original">
+{% endhint %}
 
-Probiere es doch mal aus! {
 
-}
+
+{% hint style="info" %}
+**Alternative Schläger**
+
+Man kann auch mit einem Bogen (eventuell mit Schlag verzaubert) sehr gut spielen, wenn der Ball weiter weg ist.
+
+Probiere es doch mal aus!
+{% endhint %}
+

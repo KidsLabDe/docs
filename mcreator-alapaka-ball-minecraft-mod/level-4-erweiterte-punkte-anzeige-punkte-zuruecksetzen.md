@@ -13,10 +13,14 @@ Beim Testen und Spielen ist uns etwas aufgefallen: Jeder kann relativ einfach de
 
 Das Gleiche musst du auch in dem Code für Orange durchführen, damit es für beide Farben passt.
 
-{
+{% hint style="warning" %}
+**Aufgepasst! Platz lassen**
 
-} Wenn wir mehrere Textbausteine aneinander hängen, müssen wir darauf achten, wo die Leerzeichen stehen, sonst wird der Text schwer lesbar. Zum Beispiel vor und nach _hat_ ist jeweils ein Leerzeichen. {}
+Wenn wir mehrere Textbausteine aneinander hängen, müssen wir darauf achten, wo die Leerzeichen stehen, sonst wird der Text schwer lesbar. Zum Beispiel vor und nach _hat_ ist jeweils ein Leerzeichen.
+{% endhint %}
 
-{
+{% hint style="info" %}
+**Testen nicht vergessen!**
 
-} Starte dein Programm und teste alles noch einmal! Funktioniert alles? Für beide Farben? {}
+Starte dein Programm und teste alles noch einmal! Funktioniert alles? Für beide Farben?
+{% endhint %}

@@ -16,14 +16,10 @@ Los gehts!
 
 ![Beispiel Alpaka-Ball-Arena](<../.gitbook/assets/ingame arena.png>)
 
-{
-
-}
+{% hint style="info" %}
+**Tipp: Schneller bauen**
 
 Keine Lust lange rumzubuddeln?
 
 [Minecraft Wiki: `/fill`](https://minecraft.fandom.com/wiki/Commands/fill) - Schau dir mal den Fill-Befehl an!
-
-{
-
-}
+{% endhint %}
