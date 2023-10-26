@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Einführung in MCreator & unser Projekt
 
 ## Unser Spiel: Alpaka-Ball
