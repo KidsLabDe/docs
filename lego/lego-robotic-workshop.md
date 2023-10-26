@@ -186,7 +186,11 @@ Wenn der Roboter fertig ist, verbindet man die Gehirne mit dem iPad:
     <figure><img src="../.gitbook/assets/spike-projekt1.png" alt=""><figcaption></figcaption></figure>
 3.  Verbinden...
 
+    <div align="center">
+
     <figure><img src="../.gitbook/assets/spike-proekt1-verbinden.png" alt=""><figcaption></figcaption></figure>
+
+    </div>
 
 
 4.  Gehirn aktivieren
