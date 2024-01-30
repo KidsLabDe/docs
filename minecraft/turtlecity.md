@@ -68,6 +68,14 @@ Wenn Du einen Chunk wieder freigeben möchtest, klicke einfach mit der rechten M
 
 Bei diesen Händlern kannst Du Dich mit speziellen Gegenständen ausstatten oder das Gefarmte gegen Geld eintauschen!
 
+
+
+### Tipp: Andere Schildkröten aussperren
+
+Möchtest du nicht, dass andere Schildkröten auf dein Gelände eindringen? Dann mach außen rum diese Barrier-Blöcke!
+
+<figure><img src="../.gitbook/assets/TurteCity-TurtleStopp.png" alt=""><figcaption></figcaption></figure>
+
 ## Autobahnen - schneller ist besser!
 
 Vielleicht hast Du schon die gläsernen Wege gesehen - und Dir ist aufgefallen, dass man sich dort super schnell bewegen kann!
@@ -99,3 +107,13 @@ Von Hand setzen geht auch - aber dann wird man verflucht :)
 {% hint style="info" %}
 Nicht vergessen: Lade die passenden Blöcke in das Inventor der Schildkröte!
 {% endhint %}
+
+## Karte von Turtle City
+
+Wenn du auf: city.server.kidslab.de im Browser gehst:
+
+{% embed url="https://city.server.kidslab.de" %}
+Übersichtskarte
+{% endembed %}
+
+<figure><img src="../.gitbook/assets/MapServer.png" alt=""><figcaption></figcaption></figure>
