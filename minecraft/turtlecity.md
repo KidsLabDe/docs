@@ -18,34 +18,84 @@ Die Regeln für TurtleCity:
 
 ## Wie bekomme ich Kröten und alles was ich brauche?
 
-{% embed url="https://www.youtube.com/watch?v=ux1T6sSWruc" %}
+Am Spawn steht der Start-Up-Buttler, er gibt dir eine Schildkröte, eine Fernbedienung und 15 Silber-Taler zum Einkaufen!
 
-Am Eingang erwartet dich "Verleihnix" - der versorgt Dich erst mal mit etwas Geld - damit kannst Du Dir dann alles weitere besorgen: Du bekommst 64x Silbermünzen und 64x Smaragdmünzen. Das ist für einen Tag, wenn Du morgen wiederkommst, drückt Dir der liebe Verleihnix gleich wieder den gleichen Betrag in die Hand!
+## Abenteuer-Modus und Überlebensmodus
 
-Mit dem Geld kannst Du dann bei den beiden Ladeninhabern nach Herzenslust einkaufen:&#x20;
+Normalerweise ist in den Workshops ja immer der Abenteuer-Modus aktiv. Wenn Du auf Turtle-City joinst, dann bist Du erst mal auch im Abenteuer-Modus.
 
-![](../.gitbook/assets/turtle-city-laden.png)
+Wenn Du aber außerhalb des roten Bereichs bist, wirst du automatisch auf den normalen Überlebens-Modus umgeschaltet: jetzt kannst Du also selbst bauen, abbauen etc!
 
-KrötenwarenJoe gibt Dir alles was mit Kröten und Fernbedienungen etc. zu tun hat!
+<figure><img src="../.gitbook/assets/TurtleCity-GameModus.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/turtle-city-laden-turtles.png)
+## Bauplätze - Eigene Grundstücke sichern
 
-Es gibt 2 verschiedene Kröten:
+Du kannst das Bauen auf eigenen Grundstücken sichern: Das heißt, nur du kannst auf ihnen bauen oder abbauen.
 
-![Damit kannst du noch Herzenslust rumbuddeln. Lässt sich auf Gras setzen.](../.gitbook/assets/turtle-city-minerkroete.png)
-
-Es gibt auch eine spezielle Hacke - mit der kannst du Kröten und die Blöcke, die für das Bauen in der Stadt gedacht sind, abbauen.
+Jeder kann bis zu 25 Chunks (jeder Chunk ist 16x16 Blöcke groß) für sich beanspruchen (= claimen).
 
 {% hint style="info" %}
-Abgebaute Schildkröten können nicht wieder gesetzt und verwendet werden - hol Dir bitte eine neue Schildkröte
+**Wie geht das technisch?**
+
+Wir haben ein Mod im ModPack namens "FTB Utilities" - damit kann man nicht nur Chunks claimen, auch Freundschaften verwalten und Chunks laden. Mehr findest du unter: [https://help.ftb.team/help/en-gb/7-ftb-utilities/21-chunk-claiming](https://help.ftb.team/help/en-gb/7-ftb-utilities/21-chunk-claiming)
 {% endhint %}
 
-## Bauplätze
+### Karte mit Chunks öffnen
 
-![Auf diesem speziellen Block kannst Du die Stadtkröte setzen](../.gitbook/assets/turtle-city-bauplatz.png)
+Dazu öffnest Du das Inventar (mit E) und klickst auf den Knopf rechts oben:
 
-Es gibt in der Stadt sehr viele Bauplätze. Such Dir einen aus, stell ein Schild auf - damit jeder weiß, wer der Eigentümer ist. Auf dem Block, mit dem blauen Kreis, kannst du Deine Kröte platzieren und dann benutzen, programmieren usw.
+<figure><img src="../.gitbook/assets/TurtleCity-Chunks1.png" alt=""><figcaption><p>Klicke auf die Karte im Inventar</p></figcaption></figure>
+
+Danach siehst du eine Karte der aktuellen Welt - und auch, ob es schon Chunks gibt, die jemanden gehören.
+
+Chunks anderer Spieler sind BLAU eingefärbt, deine eigenen Chunks sind grün.
+
+<figure><img src="../.gitbook/assets/TurtleCity-Chunks2.png" alt=""><figcaption><p>Übersicht der Chunks und der Inhaber</p></figcaption></figure>
+
+### Chunks beanspruchen
+
+Du kannst nun ganz einfach eigene Chunks (wenn sie noch niemand anderem gehören) beanspruchen: Durch einen Links-Klick auf ein freies Feld, wird das Feld grün und gehört nun dir.
+
+Wenn Du einen Chunk wieder freigeben möchtest, klicke einfach mit der rechten Maustaste drauf!
+
+<figure><img src="../.gitbook/assets/TurtleCity-Chunks4.png" alt=""><figcaption><p>Claimen und freigeben von Chunks</p></figcaption></figure>
+
+
+
+## Kaufen, Kaufen, Kauen!
+
+<figure><img src="../.gitbook/assets/TurtleCity-Haendler.png" alt=""><figcaption></figcaption></figure>
+
+Bei diesen Händlern kannst Du Dich mit speziellen Gegenständen ausstatten oder das Gefarmte gegen Geld eintauschen!
+
+## Autobahnen - schneller ist besser!
+
+Vielleicht hast Du schon die gläsernen Wege gesehen - und Dir ist aufgefallen, dass man sich dort super schnell bewegen kann!
+
+Du kannst selbst Autobahnen in die entferntesten Gebiete bauen, das geht ganz einfach:
+
+<figure><img src="../.gitbook/assets/TutrleCity-Schnellstrasse.png" alt=""><figcaption></figcaption></figure>
+
+* **Hellgraues Glas** - baut eine Schnell-Straße
+* **Graues Glas** - Autobahn
+* **Schwarzes Glas** - Warp-Mega-Schnellstraße
+
+Zusätzlich kannst du sehr einfach einen Aufzug bauen, und zwar aus **weißen Glas**!
+
+Die einzelnen Gläser bekommst du beim Händler namens "Meister Speeder":
+
+<figure><img src="../.gitbook/assets/TurtleCity-Autobahn-Haendler (2).png" alt=""><figcaption><p>Eine Übersicht der speziellen Gegenstände für Autobahnbau</p></figcaption></figure>
+
+&#x20;Und wie baut man am besten eine super lange Autobahn? Natürlich mit einer Schildkröte :)
+
+<figure><img src="../.gitbook/assets/TurtleCity-Autobahn-Bau (1).png" alt=""><figcaption><p>Die Schildkröte baut eine Autobahn</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/TutrleCity-AutobahnProgramm.png" alt=""><figcaption><p>... und das passende Programm dazu!</p></figcaption></figure>
 
 {% hint style="warning" %}
-Die roten Kreuze um deinen Bauplatz herum begrenzen deinen Bauplatz - **die Schildkröte kann nicht über diese Blöcke gehen oder bauen!**
+Von Hand setzen geht auch - aber dann wird man verflucht :)
+{% endhint %}
+
+{% hint style="info" %}
+Nicht vergessen: Lade die passenden Blöcke in das Inventor der Schildkröte!
 {% endhint %}
