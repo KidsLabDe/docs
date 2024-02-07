@@ -1,5 +1,20 @@
 # Probleme & Lösungen
 
+## Anmeldung fehlgeschlagen: ungültige Sitzung
+
+Beim Anmelden auf einem Server kann es vorkommen, dass die Anmeldung bei Microsoft "abgelaufen" ist. Dann erscheint die Fehlermeldung wie unten.
+
+<figure><img src="../.gitbook/assets/Fehler-ungültige-sitzung.png" alt=""><figcaption></figcaption></figure>
+
+Es reicht leider meistens nicht, wie beschrieben das Spiel neu zu starten. Stattdessen muss man den Account im ATLauncher löschen und sich neu anmelden:
+
+<figure><img src="../.gitbook/assets/SessionInvalid.png" alt=""><figcaption></figcaption></figure>
+
+1. Wähle **"Accounts"**
+2. Wähle deinen Account-Namen im **Drop-Down**
+3. Lösche die Anmeldung mit dem Knopf **"Delete"**
+4. Klicke **"Login with Microsoft",** um sich neu anzumelden.
+
 ## "You Must Login Again"
 
 ![](../.gitbook/assets/IMG\_3824BB88B093-1.jpeg)
