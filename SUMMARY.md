@@ -74,7 +74,7 @@
 * [Gemma M0](arduino/gemma-m0.md)
 * [Arduino & Co](arduino/arduino-and-co.md)
 
-## 🖨 TinkerCAD & 3D-Druck <a href="#tinkercad" id="tinkercad"></a>
+## 🖨️ TinkerCAD & 3D-Druck <a href="#tinkercad" id="tinkercad"></a>
 
 * [🐲 3D-Team-Drachen](tinkercad/3d-team-drachen.md)
 * [Lego Mindstorms EV3](tinkercad/lego-mindstorms-ev3/README.md)

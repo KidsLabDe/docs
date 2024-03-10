@@ -108,6 +108,16 @@ Von Hand setzen geht auch - aber dann wird man verflucht :)
 Nicht vergessen: Lade die passenden Blöcke in das Inventor der Schildkröte!
 {% endhint %}
 
+##
+
+## Du hast Post! Briefe und Gegenstände verschicken.
+
+Es gibt einen Briefträger - Schruppi. Klicke auf ihn, um Briefe und Gegenstände an andere Spieler zu verschicken.
+
+Neben ihm steht ein Briefkasten - wenn du da drauf klickst, kannst Du Briefe empfangen und lesen!
+
+<figure><img src="../.gitbook/assets/grafik.png" alt=""><figcaption><p>Du kannst Schruppi deine Post anvertrauen!</p></figcaption></figure>
+
 ## Karte von Turtle City
 
 Wenn du auf: city.server.kidslab.de im Browser gehst:
