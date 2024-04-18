@@ -53,6 +53,12 @@
 * [Erste Schritte](scratch/erste-schritte.md)
 * [PacMan!](scratch/pacman.md)
 
+***
+
+* [PicoKrokoPlatine (KidsLab-Glühbirne)](picokrokoplatine-kidslab-gluehbirne/README.md)
+  * [Python Libraries](picokrokoplatine-kidslab-gluehbirne/python-libraries.md)
+  * [Beschleunigung!](picokrokoplatine-kidslab-gluehbirne/beschleunigung.md)
+
 ## Python
 
 * [Checkliste - Python mit Mu](python/checkliste-python.md)

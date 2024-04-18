@@ -1,0 +1,2 @@
+# PicoKrokoPlatine (KidsLab-Glühbirne)
+

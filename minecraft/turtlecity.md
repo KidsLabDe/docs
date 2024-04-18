@@ -116,7 +116,7 @@ Es gibt einen Briefträger - Schruppi. Klicke auf ihn, um Briefe und Gegenständ
 
 Neben ihm steht ein Briefkasten - wenn du da drauf klickst, kannst Du Briefe empfangen und lesen!
 
-<figure><img src="../.gitbook/assets/grafik.png" alt=""><figcaption><p>Du kannst Schruppi deine Post anvertrauen!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/grafik (2).png" alt=""><figcaption><p>Du kannst Schruppi deine Post anvertrauen!</p></figcaption></figure>
 
 ## Karte von Turtle City
 
