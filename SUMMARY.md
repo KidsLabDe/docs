@@ -42,6 +42,7 @@
 * [Allgemeines](minetest/allgemeines/README.md)
   * [Installation (Mac)](minetest/allgemeines/installation-minetest-mac.md)
   * [Installation (Windows)](minetest/allgemeines/installation-von-minetest.md)
+  * [Installation iPad (MultiCraft)](minetest/allgemeines/installation-ipad-multicraft.md)
   * [Minetest - Grundsätzliche Bedienung](minetest/allgemeines/minetest-grundsaetzliche-bedienung.md)
 * [WorldEdit](minetest/worldedit.md)
 
