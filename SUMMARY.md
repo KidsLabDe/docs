@@ -48,7 +48,9 @@
 
 ***
 
-* [WorkAdventure](workadventure.md)
+* [Gemischte Workshops](gemischte-workshops/README.md)
+  * [WorkAdventure](gemischte-workshops/workadventure.md)
+  * [Eigenes Kahoot Erstellen](gemischte-workshops/eigenes-kahoot-erstellen.md)
 
 ## Scratch
 
