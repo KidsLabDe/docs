@@ -1,5 +1,8 @@
 ---
-description: Coole Commands für Minecraft 1.21
+description: >-
+  Coole Commands für Minecraft 1.21. All die hier vorgestellten Befehle
+  funktionieren komplett ohne Mods oder Plugins, reines Vanilla Minecraft, es
+  muss nichts weiter installiert werden.
 ---
 
 # Coole Commands
