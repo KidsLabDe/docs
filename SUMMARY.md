@@ -106,3 +106,10 @@
 * [Level 6: Das Spielfeld: Die Arena!](mcreator-alapaka-ball-minecraft-mod/level-6-das-spielfeld-die-arena.md)
 * [Level 7: Exportieren & Installieren der Mod](mcreator-alapaka-ball-minecraft-mod/level-7-exportieren-and-installieren-der-mod.md)
 * [Download als PDF](mcreator-alapaka-ball-minecraft-mod/download-als-pdf.md)
+
+## Elektro
+
+* [Stunde 1: Statische Elektrizität](elektro/stunde-1-statische-elektrizitat.md)
+* [Stunde 2: Schaltungen & Stromkreis](elektro/stunde-2-schaltungen-and-stromkreis.md)
+* [Stunde 3: Leiter und Nicht-Leiter](elektro/stunde-3-leiter-und-nicht-leiter.md)
+* [Stunde 4: Stromerzeugung: Batterien](elektro/stunde-4-stromerzeugung-batterien.md)
