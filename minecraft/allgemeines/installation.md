@@ -24,6 +24,8 @@ Wenn Deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dies
 
 Ich habe alles in einem ModPack zusammengestellt. Im Folgenden erkläre ich Dir, wie man dieses installieren kann.
 
+###
+
 ### Installation Windows
 
 1. **AtLauncher hier runterladen:** [https://atlauncher.com/download/exe-setup](https://atlauncher.com/download/exe-setup)
@@ -59,6 +61,43 @@ Video-Anleitung für die Installation unter Windows
 {% embed url="https://www.youtube.com/watch?v=5W90RZHVCZY" %}
 Video-Anleitung für die Installation unter MacOS
 {% endembed %}
+
+## Installation Linux
+
+Am einfachsten geht die Installation mit der Software [flatpak](https://flatpak.org/). Hier exemplarisch die Installation unter Ubuntu:
+
+#### Installation Flatpak
+
+```bash
+sudo apt install flatpak
+sudo add-apt-repository ppa:flatpak/stable
+sudo apt update
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+
+#### Installation AtLauncher
+
+```bash
+flatpak install atlauncher
+```
+
+noch 3-4 mal "Ja" sagen - und fertig ist die Installation!
+
+{% hint style="info" %}
+Flatpak ist cool, weil:
+
+1. Apps laufen auf allen Linux-Systemen gleich - egal ob Ubuntu, Fedora oder andere
+2. Programme sind vom System isoliert (Sandbox) = mehr Sicherheit
+3. Apps können parallel in verschiedenen Versionen installiert sein
+4. Updates kommen direkt vom Entwickler, unabhängig von der Distribution
+5. Dependencies sind immer dabei - keine fehlenden Bibliotheken
+
+Kurz: Einfacher, sicherer und universeller als klassische Paketmanager.
+{% endhint %}
+
+
 
 ## Erster Start
 
