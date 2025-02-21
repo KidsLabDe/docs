@@ -110,6 +110,7 @@
 
 ## Elektro
 
+* [Vorbereitung und benötigte Materialien](elektro/vorbereitung-und-benotigte-materialien.md)
 * [Stunde 1: Statische Elektrizität](elektro/stunde-1-statische-elektrizitat.md)
 * [Stunde 2: Schaltungen & Stromkreis](elektro/stunde-2-schaltungen-and-stromkreis.md)
 * [Stunde 3: Leiter und Nicht-Leiter](elektro/stunde-3-leiter-und-nicht-leiter.md)
