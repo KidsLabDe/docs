@@ -11,6 +11,7 @@ description: >-
 
 #### Highway / Rennbahn Glas
 Wie dus aus TurtleCity kennst:
+
 <figure><img src="../.gitbook/assets/highway.png" alt=""><figcaption></figcaption></figure>
 
 ```mcfunction
@@ -21,7 +22,9 @@ Statt schwarzem Glas (black_stained_glass) kannst au auch jeden anderen Block al
 
 #### Aufzug
 Wie dus aus TurtleCity kennst:
+
 <figure><img src="../.gitbook/assets/aufzug.png" alt=""><figcaption></figcaption></figure>
+
 ```mcfunction
 execute as @a at @s if block ~ ~2 ~ minecraft:white_stained_glass run tp @s ~ ~1 ~
 execute as @a at @s if block ~ ~ ~ minecraft:white_stained_glass if block ~ ~2 ~ air run tp ~ ~1 ~
@@ -29,6 +32,7 @@ execute as @a at @s if block ~ ~ ~ minecraft:white_stained_glass if block ~ ~2 ~
 auch hier kannst du selber wählen welchen Block du möchtest, nicht durchsichtige Blöcke geben dir jedoch schaden wenn du in ihnen stehst!
 
 #### Kletternder Schleim
+
 <figure><img src="../.gitbook/assets/schleim-treppen.png.png" alt=""><figcaption></figcaption></figure>
 
 ```mcfunction
