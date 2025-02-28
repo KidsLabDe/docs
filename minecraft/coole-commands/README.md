@@ -9,11 +9,32 @@ description: >-
 
 ### Wiederholende CmdB
 
+#### Highway / Rennbahn Glas
+Wie dus aus TurtleCity kennst:
+<figure><img src="../.gitbook/assets/highway.png" alt=""><figcaption></figcaption></figure>
+
+```mcfunction
+execute as @a at @s if block ~ ~-1 ~ minecraft:black_stained_glass run effect give @s minecraft:speed 1 10 true
+```
+wenn dus schneller magst kannst du statt der 10 auch andere speed boosts z.B. 20 aussuchen.
+Statt schwarzem Glas (black_stained_glass) kannst au auch jeden anderen Block als auslöser wählen
+
+#### Aufzug
+Wie dus aus TurtleCity kennst:
+<figure><img src="../.gitbook/assets/aufzug.png" alt=""><figcaption></figcaption></figure>
+```mcfunction
+execute as @a at @s if block ~ ~2 ~ minecraft:white_stained_glass run tp @s ~ ~1 ~
+execute as @a at @s if block ~ ~ ~ minecraft:white_stained_glass if block ~ ~2 ~ air run tp ~ ~1 ~
+```
+auch hier kannst du selber wählen welchen Block du möchtest, nicht durchsichtige Blöcke geben dir jedoch schaden wenn du in ihnen stehst!
+
 #### Kletternder Schleim
+<figure><img src="../.gitbook/assets/schleim-treppen.png.png" alt=""><figcaption></figcaption></figure>
 
 ```mcfunction
 execute at @e[type=slime] run setblock ~ ~-1 ~ minecraft:slime_block
 ```
+Du kannst statt einem Schleimblock auch mal TNT verwenden xD
 
 #### Feuer Ziege
 
@@ -65,6 +86,7 @@ kill @e[tag=toHop]
 
 Tichter teleportieren Spieler in die Richtung in die sie zeigen.\
 Kessel teleportieren Spieler nach oben.
+Ähnlich wie in diesem [Video](https://www.youtube.com/watch?v=aVSvQ1347Q0)
 
 Initial:
 
