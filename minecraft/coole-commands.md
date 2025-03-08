@@ -10,36 +10,40 @@ description: >-
 ### Wiederholende CmdB
 
 #### Highway / Rennbahn Glas
+
 Wie dus aus TurtleCity kennst:
 
-<figure><img src="../.gitbook/assets/highway.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/highway.png" alt=""><figcaption></figcaption></figure>
 
 ```mcfunction
 execute as @a at @s if block ~ ~-1 ~ minecraft:black_stained_glass run effect give @s minecraft:speed 1 10 true
 ```
-wenn dus schneller magst kannst du statt der 10 auch andere speed boosts z.B. 20 aussuchen.
-Statt schwarzem Glas (black_stained_glass) kannst au auch jeden anderen Block als auslöser wählen
+
+wenn dus schneller magst kannst du statt der 10 auch andere speed boosts z.B. 20 aussuchen. Statt schwarzem Glas (black\_stained\_glass) kannst au auch jeden anderen Block als auslöser wählen
 
 #### Aufzug
+
 Wie dus aus TurtleCity kennst:
 
-<figure><img src="../.gitbook/assets/aufzug.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/aufzug.png" alt=""><figcaption></figcaption></figure>
 
 ```mcfunction
 execute as @a at @s if block ~ ~2 ~ minecraft:white_stained_glass run tp @s ~ ~1 ~
 execute as @a at @s if block ~ ~ ~ minecraft:white_stained_glass if block ~ ~2 ~ air run tp ~ ~1 ~
 ```
+
 auch hier kannst du selber wählen welchen Block du möchtest, nicht durchsichtige Blöcke geben dir jedoch schaden wenn du in ihnen stehst!
 
 #### Spawnpunkt Schutz
+
 Setzt alle Spieler die nicht Administratoren sind und in einem Radius `distance` um den Spawn sind in den Adventure-Modus, und alle Spieler ausserhalb des Radius in den Survival-Modus. Administratoren müssen den tag `admin`haben.
 
 ```mcfunction
 execute as @a[distance=..50,x=100,y=64,z=100,tag=!admin] run gamemode adventure
 execute as @a[distance=50..,x=100,y=64,z=100,tag=!admin] run gamemode survival
 ```
-Wichtig ist, dass ihr die `x`, `y` und `z` Koordinaten in den Befehlen an euren Spawnpunk anpasst!
-Administratoren kann mit folgendem command (Nicht im Commandblock, sondern im Chat) der `admin` tag gegeben werden, damit sie nicht beeinflusst werden:
+
+Wichtig ist, dass ihr die `x`, `y` und `z` Koordinaten in den Befehlen an euren Spawnpunk anpasst! Administratoren kann mit folgendem command (Nicht im Commandblock, sondern im Chat) der `admin` tag gegeben werden, damit sie nicht beeinflusst werden:
 
 ```mcfunction
 /tag <player> add admin
@@ -49,11 +53,12 @@ Administratoren kann mit folgendem command (Nicht im Commandblock, sondern im Ch
 
 #### Kletternder Schleim
 
-<figure><img src="../.gitbook/assets/schleim-treppen.png.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/schleim-treppen.png.png" alt=""><figcaption></figcaption></figure>
 
 ```mcfunction
 execute at @e[type=slime] run setblock ~ ~-1 ~ minecraft:slime_block
 ```
+
 Du kannst statt einem Schleimblock auch mal TNT verwenden xD
 
 #### Feuer Ziege
@@ -105,8 +110,7 @@ kill @e[tag=toHop]
 #### Trichter für Spieler
 
 Tichter teleportieren Spieler in die Richtung in die sie zeigen.\
-Kessel teleportieren Spieler nach oben.
-Ähnlich wie in diesem [Video](https://www.youtube.com/watch?v=aVSvQ1347Q0)
+Kessel teleportieren Spieler nach oben. Ähnlich wie in diesem [Video](https://www.youtube.com/watch?v=aVSvQ1347Q0)
 
 Initial:
 

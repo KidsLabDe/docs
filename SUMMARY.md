@@ -35,8 +35,7 @@
 * [Infos für Lehrer / Educator](minecraft/infos-fuer-lehrer-educator/README.md)
   * [Spezielle Blöcke für Robokröti](minecraft/infos-fuer-lehrer-educator/spezielle-bloecke-fuer-robokroeti.md)
   * [Eigenen Server betreiben](minecraft/infos-fuer-lehrer-educator/eigenen-server-betreiben.md)
-* [Coole Commands](minecraft/coole-commands/README.md)
-  * [Page 1](minecraft/coole-commands/page-1.md)
+* [Coole Commands](minecraft/coole-commands.md)
 * [Page](minecraft/page/README.md)
   * [Page 2](minecraft/page/page-2.md)
 
