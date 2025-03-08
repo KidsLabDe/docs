@@ -59,6 +59,7 @@
 
 * [Erste Schritte](scratch/erste-schritte.md)
 * [PacMan!](scratch/pacman.md)
+* [Lehrerkonto bei Scratch](scratch/lehrerkonto-bei-scratch.md)
 
 ***
 
