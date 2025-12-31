@@ -117,8 +117,7 @@ Jetzt musst du natürlich alle Stellen, an denen "Blau" steht, durch "Orange" er
 
 ![... und der Rechtsklick-Code für Orange.](<../.gitbook/assets/code rechtsklick orange.png>)
 
-Vergiss nicht, auch den Auslöser anzupassen!\
-
+Vergiss nicht, auch den Auslöser anzupassen!<br>
 
 {% hint style="info" %}
 **Funktioniert es?**

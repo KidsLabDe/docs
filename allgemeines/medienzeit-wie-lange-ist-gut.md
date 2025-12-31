@@ -1,7 +1,8 @@
 ---
-description: Wie viel Bildschirmzeit ist gut, was ist zu lange? Das ist eine sehr
-  komplexe Frage, die nicht leicht zu beantworten ist! Ich möchte Dir hier ein paar
-  Tipps geben und meine Erfahrungen teilen
+description: >-
+  Wie viel Bildschirmzeit ist gut, was ist zu lange? Das ist eine sehr komplexe
+  Frage, die nicht leicht zu beantworten ist! Ich möchte Dir hier ein paar Tipps
+  geben und meine Erfahrungen teilen
 ---
 
 # Medienzeit: Wie lange ist gut?
@@ -15,9 +16,9 @@ Und wie viel Zeit ist das denn jetzt genau? Das kann man mittlerweile nachschaue
 * Bei Apple-Geräten heißt das "**Bildschirmzeit**"
 * Bei Google-Geräten "**Digital Wellbeing**" oder "**Digitales Wohlbefinden**"
 
-{% embed url="https://support.apple.com/de-de/HT208982\#:~:text=dein%20Kind%20verwendet.-,Gehe%20zu%20%22Einstellungen%22%2C%20und%20tippe%20auf%20%22Bildschirmzeit%22,oder%20tippe%20auf%20%22Sp%C3%A4ter%22." caption="" %}
+{% embed url="https://support.apple.com/de-de/HT208982#:~:text=dein%20Kind%20verwendet.-,Gehe%20zu%20%22Einstellungen%22%2C%20und%20tippe%20auf%20%22Bildschirmzeit%22,oder%20tippe%20auf%20%22Sp%C3%A4ter%22." %}
 
-{% embed url="https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=de&gl=US" caption="" %}
+{% embed url="https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=de&gl=US" %}
 
 {% hint style="info" %}
 **Mache einen Selbstversuch** - aktiviere die App und schau mal, wie oft du dein Handy zückst, vie oft du es aktivierst... **Du wirst überrascht sein**!
@@ -30,7 +31,7 @@ Besprecht gemeinsam:
 * was für dein Kind wichtig ist
 * was für Dich wichtig ist
 * was nervt
-* warum etwas wichtig ist 
+* warum etwas wichtig ist&#x20;
 
 {% hint style="info" %}
 Viele Aktivitäten finden ja "**unsichtbar**" statt. Was macht dein Kind denn da die ganze Zeit? Was sind das für Games, die es zockt?
@@ -48,24 +49,24 @@ So kannst Du Dir ein Bild machen, was denn da überhaupt alles passiert.
 
 Vielleicht ist beim gemeinsamen schauen und gegenseitigen Verstehen jetzt schon ein bisschen klarer, in welche Richtung es gehen soll.
 
-Jetzt sollte man gemeinsam festlegen, was denn ein guter Weg ist, mit dem \(im besten Fall\) alle einverstanden sind.
+Jetzt sollte man gemeinsam festlegen, was denn ein guter Weg ist, mit dem (im besten Fall) alle einverstanden sind.
 
 Hier ein paar Denkanstöße:
 
 * Darf man j**eden Tag zocken** oder ist auch mal ein Tag Pause?
-* Ist spielen erst **nach allen Pflichten** \(Hausaufgaben, Schule, Aufräumen, Sport...\) erlaubt?
+* Ist spielen erst **nach allen Pflichten** (Hausaufgaben, Schule, Aufräumen, Sport...) erlaubt?
 * Gibt es **Handy-freie Zonen?** Essenstisch, Bett, Klo?
 * Sind bestimmte Apps, wie zum Beispiel Telefonieren, immer erlaubt?
 * Was ist mit Youtube auf _verschiedenen Geräten_: TV, Switch, Handy, Tablet etc.?
 
 Haltet das schriftlich fest! Ein gutes Werkzeug ist ein "Mediennutzungsvertrag" - hier ein schöne Vorlage:
 
-{% embed url="https://www.mediennutzungsvertrag.de/" caption="" %}
+{% embed url="https://www.mediennutzungsvertrag.de/" %}
 
 {% hint style="success" %}
 **Gemeinsam ausfüllen, ausdrucken und unterschreiben!‌**
 
-Der hängt bei uns zuhause am Kühlschrank, es gibt hier und da doch wieder Unstimmigkeiten, was jetzt genau wie vereinbart wurde :-\)
+Der hängt bei uns zuhause am Kühlschrank, es gibt hier und da doch wieder Unstimmigkeiten, was jetzt genau wie vereinbart wurde :-)
 {% endhint %}
 
 ## 3. Automatisches Zeiten in den Geräten
@@ -104,4 +105,3 @@ Absprachen und Regeln ändern sich. Manches klappt super, anderes stellt sich gl
 * Was ist in den Ferien?
 * Kann man sich zusätzliche Zeit erarbeiten? Spülmaschine ausräumen..
 * u.s.w.
-

@@ -24,8 +24,6 @@ Wenn Deine **Java-Version mit einem Microsoft-Account** verknüpft ist, und dies
 
 Ich habe alles in einem ModPack zusammengestellt. Im Folgenden erkläre ich Dir, wie man dieses installieren kann.
 
-###
-
 ### Installation Windows
 
 1. **AtLauncher hier runterladen:** [https://atlauncher.com/download/exe-setup](https://atlauncher.com/download/exe-setup)
@@ -44,6 +42,10 @@ Video-Anleitung für die Installation unter Windows
 {% endembed %}
 
 ### **Installation MacOS**
+
+{% hint style="info" %}
+Hast du einen neueren Mac mit **M-Prozessor? Also M1, M2 etc?** Dann probier bitte diese Variante, die klappt erfahrungsgemäß besser auf diesen Geräten: [installation-apple-silicon-m1-arm.md](installation-apple-silicon-m1-arm.md "mention")
+{% endhint %}
 
 1. Zuerst **Java installieren**: [https://java.com/de/download/](https://java.com/de/download/)
 2. Dann **AtLauncher für Mac herunterladen:** [https://atlauncher.com/download/zip](https://atlauncher.com/download/zip)
