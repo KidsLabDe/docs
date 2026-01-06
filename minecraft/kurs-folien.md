@@ -9,37 +9,40 @@ Hier findest du alle Folien aus dem Kurs zum nochmal Nachschauen.
 Fernbedienung kennenlernen um den mysteriösen Gegenstand zu finden.  
 [Präsentation 1](https://docs.google.com/presentation/d/1aCSdkeuSuYl6UOdlsM3NNtDsQaQDlu4xKiggdqholc4/edit?usp=sharing)
 
+**Video Erklärung:** (alte Welt)  
+https://www.youtube.com/watch?v=3BofqEGoCDA
 
 ## Labyrinth
-Den weg fürs labyrinth der Schildkröte beibringen
+Den weg fürs labyrinth der Schildkröte beibringen  
 (folien kommen noch)
 
 ## Treppenbau challenge
-Hier lernen wir Schleifen
+Hier lernen wir Schleifen  
 (folien kommen noch)
 
 ## Turtle City
-Heute schauen wir uns Turtle City an.
-(folien kommen noch)
+Heute schauen wir uns Turtle City an.  
+(folien kommen noch)  
+[Turtle City](https://handbuch.kidslab.de/minecraft/turtlecity)
 
 ## Smaragtmäher
-Hier lernen wir Schleifen in Schleifen, sehr mächtig.
+Hier lernen wir Schleifen in Schleifen, sehr mächtig.  
 (folien kommen noch)
 
 ## Smargtmäher ohne Zählen
-Die Schildkröte kann selber erkennen wann sie 
+Die Schildkröte kann selber erkennen wann sie   
 (folien kommen noch)umdrehen muss.
 
 ## Zufalls Labyrinth
-Wass ist wenn...
-Falls ... Dann ... abfragen.
-Die Schildkröte lernt selber zu entscheiden.
+Wass ist wenn...  
+Falls ... Dann ... abfragen.  
+Die Schildkröte lernt selber zu entscheiden.  
 (folien kommen noch)
 
 ## Holz fällen
-Jetzt darf die Schildkröte arbeiten gehen.
+Jetzt darf die Schildkröte arbeiten gehen.  
 (folien kommen noch)
 
 ## Code'n'Run
-Finale Challenge
+Finale Challenge  
 (folien kommen noch)
