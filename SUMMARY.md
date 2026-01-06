@@ -16,6 +16,7 @@
   * [Installation Minecraft Java allgemein](minecraft/allgemeines/installation-minecraft-java.md)
   * [Minecraft und Microsoft Konten](minecraft/allgemeines/minecraft-und-microsoft-konten.md)
   * [Allgemeine Bedienung / Java Edition](minecraft/allgemeines/allgemeine-bedienung-java-edition.md)
+  * [Kurs Folien](minecraft/allgemeines/kurs-folien.md)
   * [Andere Modpacks in ATLauncher](minecraft/allgemeines/modpacks.md)
   * [Welten verwalten](minecraft/allgemeines/welten-verwalten.md)
   * [Minecraft Shader](minecraft/allgemeines/minecraft-shader.md)
