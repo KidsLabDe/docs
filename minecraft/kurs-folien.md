@@ -10,14 +10,14 @@ Schildkröte kennenlernen um mit der Fernbedienung den mysteriösen Gegenstand z
 [Präsentation 1](https://docs.google.com/presentation/d/1aCSdkeuSuYl6UOdlsM3NNtDsQaQDlu4xKiggdqholc4/edit?usp=sharing)
 
 **Video Erklärung:** (alte Welt)  
-https://www.youtube.com/watch?v=3BofqEGoCDA
+[YouTube Video](https://www.youtube.com/watch?v=3BofqEGoCDA)
 
 ## Labyrinth
-Der Schildkröte den Weg durchs Labyrinth beibringen.
+Der Schildkröte den Weg durchs Labyrinth beibringen.  
 [Präsentation 2](https://docs.google.com/presentation/d/1LvO7TtlcVSbbdHP0JaqyiEHj3bwn3NwyD-sslQlAko0/edit?usp=sharing)
 
 **Video Erklärung:** (alte Welt)  
-https://www.youtube.com/watch?v=zgrJB9xQ2HQ
+[YouTube Video](https://www.youtube.com/watch?v=zgrJB9xQ2HQ)
 
 ## Treppenbau challenge
 Hier lernen wir Schleifen  
