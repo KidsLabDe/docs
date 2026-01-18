@@ -21,7 +21,7 @@ Der Schildkröte den Weg durchs Labyrinth beibringen.
 
 ## Treppenbau challenge
 Hier lernen wir Schleifen  
-(Folien kommen noch)
+[Präsentation 3](https://docs.google.com/presentation/d/1Jadght5NzFL1o3at8rRzbCXOIYPqF81ArT_xfbRrbiQ/edit?usp=sharing)
 
 ## Turtle City
 Heute schauen wir uns Turtle City an.  
