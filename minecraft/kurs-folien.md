@@ -28,16 +28,16 @@ Heute schauen wir uns Turtle City an.
 (Folien kommen noch)  
 [Turtle City](https://handbuch.kidslab.de/minecraft/turtlecity)
 
-## Smaragtmäher
+## Smaragdmäher
 Hier lernen wir Schleifen in Schleifen, sehr mächtig.  
+[Präsentation 4](https://docs.google.com/presentation/d/1VGAeShNbku2WTSePfjQNri9HnLb7g3yazUAjhBz82UY/edit?usp=sharing)
+
+## Smargdmäher ohne Zählen
+Die Schildkröte kann selber erkennen wann sie umdrehen muss.
 (Folien kommen noch)
 
-## Smargtmäher ohne Zählen
-Die Schildkröte kann selber erkennen wann sie   
-(Folien kommen noch)umdrehen muss.
-
 ## Zufalls Labyrinth
-Wass ist wenn...  
+Was ist wenn...  
 Falls ... Dann ... abfragen.  
 Die Schildkröte lernt selber zu entscheiden.  
 (Folien kommen noch)
