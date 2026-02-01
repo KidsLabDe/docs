@@ -34,7 +34,7 @@ Hier lernen wir Schleifen in Schleifen, sehr mächtig.
 
 ## Smargdmäher ohne Zählen
 Die Schildkröte kann selber erkennen wann sie umdrehen muss.
-(Folien kommen noch)
+[Präsentation 5](https://docs.google.com/presentation/d/1CIbo7lZQEJvpVWchP1X44c8uAC_DBY_XnoLfnzEa6ug/edit?usp=sharing)
 
 ## Zufalls Labyrinth
 Was ist wenn...  
