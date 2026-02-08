@@ -34,13 +34,15 @@ Hier lernen wir Schleifen in Schleifen, sehr mächtig.
 
 ## Smargdmäher ohne Zählen
 Die Schildkröte kann selber erkennen wann sie umdrehen muss.  
+Falls ... Dann ...  
 [Präsentation 5](https://docs.google.com/presentation/d/1CIbo7lZQEJvpVWchP1X44c8uAC_DBY_XnoLfnzEa6ug/edit?usp=sharing)
 
 ## Zufalls Labyrinth
+Noch mehr:  
 Was ist wenn...  
-Falls ... Dann ... abfragen.  
+Falls ... Dann ... Abfragen.  
 Die Schildkröte lernt selber zu entscheiden.  
-(Folien kommen noch)
+[Präsentation 6](https://docs.google.com/presentation/d/1HpUI0he6cwXZcnNHuE2StUPe69a12XMcpL3FfA0H7_E/edit?usp=sharing)
 
 ## Holz fällen
 Jetzt darf die Schildkröte arbeiten gehen.  
