@@ -46,7 +46,8 @@ Die Schildkröte lernt selber zu entscheiden.
 
 ## Holz fällen
 Jetzt darf die Schildkröte arbeiten gehen.  
-(Folien kommen noch)
+Wir lernen Zufall zu nutzen und Unterprogramme zu starten.  
+[Präsentation 7](https://docs.google.com/presentation/d/1rPI7obyfvcjdMjOGOfK4QoFKMvlrMGGvF8Xi95BCM8c/edit?usp=sharing)
 
 ## Code'n'Run
 Finale Challenge  
