@@ -40,7 +40,7 @@ Falls ... Dann ...
 ## Zufalls Labyrinth
 Noch mehr:  
 Was ist wenn...  
-Falls ... Dann ... Abfragen.  
+Falls ... Dann  eMail mit allen Infos zum Kurs... Abfragen.  
 Die Schildkröte lernt selber zu entscheiden.  
 [Präsentation 6](https://docs.google.com/presentation/d/1HpUI0he6cwXZcnNHuE2StUPe69a12XMcpL3FfA0H7_E/edit?usp=sharing)
 
@@ -51,4 +51,5 @@ Wir lernen Zufall zu nutzen und Unterprogramme zu starten.
 
 ## Code'n'Run
 Finale Challenge  
-(Folien kommen noch)
+alles zusammen  
+[Präsentation 8](https://docs.google.com/presentation/d/1qNLBSyE4TONHYuwpOBbFCmNW0ZyK_ZYbb2gKOJcNRcc/edit?usp=sharing)
