@@ -38,3 +38,6 @@ Achtung - Die Tastatur des Computers ist für Eltern LAVA - nur Kinder dürfen S
 {% hint style="success" %}
 Perfekt! Du habt es geschafft! Dein Kind ist optimal vorbereitet auf unseren Online-Workshop!
 {% endhint %}
+
+hier steht was, was eh niemand liest.
+

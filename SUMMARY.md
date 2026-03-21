@@ -79,7 +79,7 @@
 
 ## Minecraft-Mods Programmieren
 
-* [Übersicht](minecraft-mods-programmieren/uebersicht.md)
+* [Übersicht](minecraft-mods-programmieren/ubersicht.md)
 * [Installation mCreator](minecraft-mods-programmieren/installation-mcreator.md)
 * [Erste Mod: ein eigener Block](minecraft-mods-programmieren/erste-mod-ein-eigener-block.md)
 
