@@ -116,3 +116,4 @@
 * [Stunde 2: Schaltungen & Stromkreis](elektro/stunde-2-schaltungen-and-stromkreis.md)
 * [Stunde 3: Leiter und Nicht-Leiter](elektro/stunde-3-leiter-und-nicht-leiter.md)
 * [Stunde 4: Stromerzeugung: Batterien](elektro/stunde-4-stromerzeugung-batterien.md)
+* [Konsensomat](elektro/konsensomat.md)
